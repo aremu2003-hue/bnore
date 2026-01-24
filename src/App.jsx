@@ -1,6 +1,6 @@
 import './App.css'
 import './styles/theme.css'
-import { BrowserRouter as Router, Routes, Route } from 'react-router-dom'
+import { BrowserRouter as Router, Routes, Route, Navigate } from 'react-router-dom'
 import { ThemeProvider } from './contexts/ThemeContext'
 import Home from './pages/Home'
 import About from './pages/About'
@@ -34,6 +34,7 @@ function App() {
             <Route path="/services/:serviceId" element={<Services />} />
             <Route path="/conditions" element={<Conditions />} />
             <Route path="/insurance" element={<Insurance />} />
+            <Route path="/resources" element={<Navigate to="/resources/county" replace />} />
             <Route path="/resources/county" element={<County />} />
             <Route path="/resources/state" element={<State />} />
             <Route path="/resources/federal" element={<Federal />} />
