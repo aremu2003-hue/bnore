@@ -1,15 +1,15 @@
 {
   "images": {
     "serviceImages": {
-      "personal-care": "https://res.cloudinary.com/dvauarkh6/image/upload/v1757647571/pexels-kampus-7477691_fbuzpo.jpg",
-      "mobility-positioning": "https://res.cloudinary.com/dvauarkh6/image/upload/v1747917952/pexels-vlada-karpovich-5790702_1_jsorsb.jpg",
-      "medication-administration": "https://res.cloudinary.com/dvauarkh6/image/upload/v1757647660/pexels-jsme-mila-523821574-29372742_btuql4.jpg",
-      "tracheostomy-care": "https://res.cloudinary.com/dvauarkh6/image/upload/v1757648020/pexels-mike-jones-8805864_tpce8a.jpg",
-      "ventilator-respiratory": "https://res.cloudinary.com/dvauarkh6/image/upload/v1757648078/pexels-kampus-7551646_mznizh.jpg",
-      "gtube-feeding": "https://res.cloudinary.com/dvauarkh6/image/upload/v1757648473/pexels-liliana-drew-9462344_crre4v.jpg",
-      "wound-ostomy": "https://res.cloudinary.com/dvauarkh6/image/upload/v1757647571/pexels-kampus-7477691_fbuzpo.jpg",
-      "seizure-management": "https://res.cloudinary.com/dvauarkh6/image/upload/v1757648020/pexels-mike-jones-8805864_tpce8a.jpg",
-      "skilled-nursing": "https://res.cloudinary.com/dvauarkh6/image/upload/v1757648078/pexels-kampus-7551646_mznizh.jpg",
+      "personal-care": "https://res.cloudinary.com/df3anqibv/image/upload/v1769269494/im7_oailnl_ev0stv.jpg",
+      "mobility-positioning": "https://res.cloudinary.com/df3anqibv/image/upload/v1769270366/istockphoto-1488612542-612x612_kwhf8x.jpg",
+      "medication-administration": "https://res.cloudinary.com/df3anqibv/image/upload/v1769270496/istockphoto-471728077-612x612_gp7r8j.jpg",
+      "tracheostomy-care": "https://res.cloudinary.com/df3anqibv/image/upload/v1769269074/Gemini_Generated_Image_h3h88yh3h88yh3h8_upqq4j.png",
+      "ventilator-respiratory": "https://res.cloudinary.com/df3anqibv/image/upload/v1769269059/img3_qw11ay_uzjope.jpg",
+      "gtube-feeding": "https://res.cloudinary.com/df3anqibv/image/upload/v1769269311/im6_ndxkca_wau56e.jpg",
+      "wound-ostomy": "https://res.cloudinary.com/df3anqibv/image/upload/v1769270620/pexels-pavel-danilyuk-8763103_ns7y6s.jpg",
+      "seizure-management": "https://res.cloudinary.com/df3anqibv/image/upload/v1769269679/1M9_bapg65_slqy73.jpg",
+      "skilled-nursing": "https://res.cloudinary.com/df3anqibv/image/upload/v1769268608/pexels-pavel-danilyuk-5998507_d75s8r.jpg",
       "family-training": "https://res.cloudinary.com/dvauarkh6/image/upload/v1747917952/pexels-vlada-karpovich-5790702_1_jsorsb.jpg"
     },
     "heroImages": [
