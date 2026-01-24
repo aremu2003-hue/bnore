@@ -28,7 +28,7 @@ function Careers() {
     return (
         <div className="careers-page">
             <Header />
-            
+
             {/* Hero Section */}
             <section className="careers-hero">
                 <div className="careers-hero-container">
@@ -56,6 +56,19 @@ function Careers() {
             </section>
 
             {/* Job Listings Section */}
+            <section className="job-listings-section" style={{ padding: '40px 0' }}>
+                <div className="job-listings-container">
+                    <iframe
+                        src="https://telescopehr.com/careers/gp00kjNPuHIm2DtmqDBOSfpdF8Crqo"
+                        width="100%"
+                        height="800"
+                        frameBorder="0"
+                        title="Careers at B'Nore Care"
+                    ></iframe>
+                </div>
+            </section>
+
+            {/* Job Listings Section - Commented Out
             <section className="job-listings-section">
                 <div className="job-listings-container">
                     <div className="job-listings-header" >
@@ -111,6 +124,7 @@ function Careers() {
                     </div>
                 </div>
             </section>
+            */}
 
             <Footer />
         </div>
