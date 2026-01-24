@@ -1,0 +1,120 @@
+{
+  "images": {
+    "hero": {
+      "main": "/Users/Apple/.gemini/antigravity/brain/58852a00-57ce-4314-8cb7-ed6eafe3ed89/pediatric_about_main_1769078825429.png",
+      "gallery": [
+        "/Users/Apple/.gemini/antigravity/brain/58852a00-57ce-4314-8cb7-ed6eafe3ed89/pediatric_hero_1_1769078773955.png",
+        "/Users/Apple/.gemini/antigravity/brain/58852a00-57ce-4314-8cb7-ed6eafe3ed89/pediatric_hero_2_1769078791431.png",
+        "/Users/Apple/.gemini/antigravity/brain/58852a00-57ce-4314-8cb7-ed6eafe3ed89/pediatric_hero_3_1769078808430.png"
+      ]
+    },
+    "founder": {
+      "profile": "/assets/test1.jpg"
+    }
+  },
+  "hero": {
+    "badge": "Family Nurse Practitioner-Owned",
+    "title": "We're More Than a Nursing Agency—",
+    "titleHighlight": "We're Family",
+    "description": "We're parents, caregivers, and advocates who believe every child deserves care that honors their unique spirit. B'Nore Care was built on a simple truth: families shouldn't have to choose between quality medical care and genuine human connection.",
+    "stats": [
+      {
+        "number": "15+",
+        "label": "Years of Experience"
+      },
+      {
+        "number": "500+",
+        "label": "Families Served"
+      },
+      {
+        "number": "24/7",
+        "label": "Support Available"
+      },
+      {
+        "number": "100%",
+        "label": "Licensed Nurses"
+      }
+    ]
+  },
+  "founderMessage": {
+    "title": "Meet Our Founder",
+    "subtitle": "A Personal Mission Born from the Heart",
+    "content": [
+      "I'll never forget the phone call. A mother, voice shaking, telling me her medically fragile daughter had been through five different nursing agencies in six months. 'They're all qualified,' she said, 'but nobody sees my daughter. They just see her diagnosis.'",
+      "That conversation changed everything for me. I'd spent years working in pediatric nursing, and I'd seen this pattern over and over—families desperate not just for skilled care, but for someone who would truly see their child. Someone who would learn that Emma loves Taylor Swift, that Marcus laughs at dad jokes, that Sophia needs her stuffed elephant before every breathing treatment.",
+      "B'Nore Care exists because your child is not a diagnosis. They're a whole person with dreams, preferences, fears, and an incredible capacity for joy—even when their bodies don't cooperate. Our nurses don't just manage trachs and vents; they become part of your child's world, celebrating the victories (even the tiny ones) and holding space for the hard days.",
+      "We know you didn't choose this journey. But you don't have to walk it alone."
+    ],
+    "signature": "— The B'Nore Care Team",
+    "credentials": "MSN, APRN, FNP-C",
+    "cta": {
+      "text": "Call (770) 674-6448",
+      "secondary": "Schedule a Call"
+    }
+  },
+  "whyChooseUs": {
+    "badge": "Why Families Choose B'Nore Care",
+    "title": "What Makes Us Different",
+    "description": "We could tell you about our credentials, our experience, our clinical excellence. And yes, all of that matters. But here's what really sets us apart:",
+    "points": [
+      {
+        "icon": "🎈",
+        "title": "We Remember the Little Things",
+        "description": "Your nurse will know that Tuesday is pizza day, that your son hates the blue suction catheter, and that your daughter needs exactly three minutes of prep time before any procedure. Because the little things? They're actually the big things."
+      },
+      {
+        "icon": "👨‍👩‍👧‍👦",
+        "title": "We Support the Whole Family",
+        "description": "Siblings need attention too. Parents need breaks. Grandparents need reassurance. We see all of you, and we're here to support everyone—not just the child receiving care. Your family's well-being is our priority."
+      },
+      {
+        "icon": "🧭",
+        "title": "We Navigate the System WITH You",
+        "description": "Insurance denials. Prior authorizations. GAPP applications. Medicaid waiver programs. We know this maze inside and out, and we'll walk beside you every step of the way. You shouldn't need a law degree to get your child the care they need."
+      },
+      {
+        "icon": "🌙",
+        "title": "We're Available When You Need Us",
+        "description": "Medical emergencies don't wait for business hours. Neither do we. 24/7 phone support from a registered nurse means you're never alone at 2 AM when something doesn't feel right. We answer. Every time."
+      }
+    ]
+  },
+  "ourPromise": {
+    "title": "Our Promise to You",
+    "content": [
+      "We promise to show up—not just physically, but emotionally. We'll celebrate when your child masters a new skill. We'll problem-solve when equipment fails. We'll listen when you need to vent about the insurance company. We'll cry with you on the hard days and laugh with you on the good ones.",
+      "We promise to respect your expertise. You know your child better than anyone. We bring clinical skills; you bring intimate knowledge of what works and what doesn't. Together, we're an unbeatable team.",
+      "We promise that if something isn't working—if the nurse isn't the right fit, if the schedule needs adjusting, if you have concerns—you can tell us. We'll listen without defensiveness and make it right. Your trust is sacred to us.",
+      "Most of all, we promise to see your child for who they are: a unique, valuable human being who deserves to be loved, respected, and cared for with dignity."
+    ]
+  },
+  "team": {
+    "title": "Meet the People Who Will Care for Your Child",
+    "subtitle": "Every nurse on our team has been carefully selected not just for their clinical skills, but for their heart. They're parents, siblings, and caregivers who understand that your child is your whole world.",
+    "features": [
+      {
+        "image": "/Users/Apple/.gemini/antigravity/brain/58852a00-57ce-4314-8cb7-ed6eafe3ed89/pediatric_hero_1_1769078773955.png",
+        "title": "Clinical Excellence",
+        "description": "All of our nurses are licensed, experienced, and specially trained in pediatric care. They know trachs, vents, feeding tubes, and complex medication regimens inside and out."
+      },
+      {
+        "image": "/Users/Apple/.gemini/antigravity/brain/58852a00-57ce-4314-8cb7-ed6eafe3ed89/pediatric_hero_2_1769078791431.png",
+        "title": "Genuine Connection",
+        "description": "But more than that, they genuinely love kids. They'll play games, read stories, celebrate milestones, and become a trusted part of your family's support system."
+      },
+      {
+        "image": "/Users/Apple/.gemini/antigravity/brain/58852a00-57ce-4314-8cb7-ed6eafe3ed89/pediatric_hero_3_1769078808430.png",
+        "title": "Ongoing Support",
+        "description": "Our team receives continuous training and support to ensure they're always providing the highest quality care. And if you ever have concerns, we're here to listen and make it right."
+      }
+    ]
+  },
+  "cta": {
+    "title": "Ready to Meet Your Child's New Care Team?",
+    "description": "Let's talk about your family's unique needs and how we can support you. No pressure, no sales pitch—just an honest conversation about whether B'Nore Care is the right fit for your family.",
+    "buttons": {
+      "primary": "Call (770) 674-6448",
+      "secondary": "Schedule a Call"
+    }
+  }
+}

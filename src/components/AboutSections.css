@@ -1,0 +1,282 @@
+/* Founder Message Section */
+.founder-message-section {
+    padding: 100px 0;
+    background-color: var(--background-secondary, #f8fafc);
+}
+
+.founder-message-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 24px;
+}
+
+.founder-message-content {
+    display: flex;
+    gap: 80px;
+    align-items: flex-start;
+}
+
+.founder-image-wrapper {
+    flex: 1;
+    position: relative;
+    max-width: 400px;
+}
+
+.founder-image {
+    width: 100%;
+    aspect-ratio: 3/4;
+    object-fit: cover;
+    border-radius: 20px;
+    box-shadow: 0 20px 40px rgba(0, 0, 0, 0.1);
+}
+
+.founder-quote-box {
+    position: absolute;
+    bottom: -30px;
+    right: -30px;
+    background: white;
+    padding: 24px;
+    border-radius: 16px;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+    max-width: 250px;
+}
+
+.founder-credentials {
+    font-weight: 700;
+    color: var(--primary-color, #4f89b9);
+    margin-bottom: 4px;
+    display: block;
+}
+
+.founder-role {
+    color: var(--text-secondary, #64748b);
+    font-size: 0.9rem;
+}
+
+.founder-text {
+    flex: 1.5;
+}
+
+.founder-title {
+    font-size: 2.5rem;
+    color: var(--text-primary, #1e293b);
+    margin-bottom: 16px;
+}
+
+.founder-subtitle {
+    font-size: 1.5rem;
+    color: var(--primary-color, #4f89b9);
+    margin-bottom: 32px;
+    font-weight: 600;
+}
+
+.founder-story p {
+    font-size: 1.1rem;
+    line-height: 1.8;
+    color: var(--text-secondary, #64748b);
+    margin-bottom: 24px;
+}
+
+.founder-signature {
+    font-family: cursive;
+    font-size: 1.5rem;
+    color: var(--text-primary, #1e293b);
+    margin-top: 32px;
+}
+
+/* Why Choose Us Section */
+.why-choose-us-section {
+    padding: 100px 0;
+    background: white;
+}
+
+.why-choose-us-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 24px;
+}
+
+.why-choose-us-header {
+    text-align: center;
+    max-width: 800px;
+    margin: 0 auto 60px;
+}
+
+.why-choose-badge {
+    color: var(--primary-color, #4f89b9);
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    margin-bottom: 16px;
+    display: block;
+}
+
+.why-choose-title {
+    font-size: 3rem;
+    color: var(--text-primary, #1e293b);
+    margin-bottom: 24px;
+}
+
+.why-choose-description {
+    font-size: 1.2rem;
+    color: var(--text-secondary, #64748b);
+    line-height: 1.6;
+}
+
+.why-choose-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 40px;
+}
+
+.why-choose-card {
+    background: var(--background-secondary, #f8fafc);
+    padding: 40px;
+    border-radius: 20px;
+    transition: transform 0.3s ease;
+}
+
+.why-choose-card:hover {
+    transform: translateY(-5px);
+}
+
+.why-choose-icon {
+    font-size: 3rem;
+    margin-bottom: 24px;
+}
+
+.why-choose-card-title {
+    font-size: 1.4rem;
+    font-weight: 700;
+    margin-bottom: 16px;
+    color: var(--text-primary, #1e293b);
+}
+
+.why-choose-card-description {
+    color: var(--text-secondary, #64748b);
+    line-height: 1.6;
+}
+
+/* Team Section */
+.team-section {
+    padding: 100px 0;
+    background: var(--background-secondary, #f8fafc);
+}
+
+.team-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 24px;
+}
+
+.team-header {
+    text-align: center;
+    max-width: 800px;
+    margin: 0 auto 60px;
+}
+
+.team-title {
+    font-size: 2.5rem;
+    color: var(--text-primary, #1e293b);
+    margin-bottom: 20px;
+}
+
+.team-subtitle {
+    font-size: 1.1rem;
+    color: var(--text-secondary, #64748b);
+    line-height: 1.6;
+}
+
+.team-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 30px;
+}
+
+.team-card {
+    background: white;
+    border-radius: 20px;
+    overflow: hidden;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.05);
+    transition: transform 0.3s ease;
+}
+
+.team-card:hover {
+    transform: translateY(-10px);
+}
+
+.team-image-wrapper {
+    height: 250px;
+    overflow: hidden;
+}
+
+.team-image {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: transform 0.3s ease;
+}
+
+.team-card:hover .team-image {
+    transform: scale(1.05);
+}
+
+.team-content {
+    padding: 30px;
+}
+
+.team-card-title {
+    font-size: 1.4rem;
+    font-weight: 700;
+    margin-bottom: 12px;
+    color: var(--text-primary, #1e293b);
+}
+
+.team-card-description {
+    color: var(--text-secondary, #64748b);
+    line-height: 1.6;
+    font-size: 0.95rem;
+}
+
+/* Our Promise Section */
+.promise-section {
+    padding: 100px 0;
+    background: var(--primary-color, #4f89b9);
+    color: white;
+    text-align: center;
+}
+
+.promise-container {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 0 24px;
+}
+
+.promise-title {
+    font-size: 3rem;
+    margin-bottom: 40px;
+    color: white;
+}
+
+.promise-content p {
+    font-size: 1.2rem;
+    line-height: 1.8;
+    margin-bottom: 24px;
+    opacity: 0.95;
+}
+
+@media (max-width: 968px) {
+    .founder-message-content {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .founder-image-wrapper {
+        margin-bottom: 40px;
+    }
+
+    .why-choose-grid,
+    .team-grid {
+        grid-template-columns: 1fr;
+    }
+}

@@ -1,0 +1,156 @@
+{
+  "images": {
+    "hero": {
+      "main": "/assets/p1.jpg"
+    }
+  },
+  "hero": {
+    "badge": "Contact Us",
+    "title": "Let's Start Your",
+    "titleHighlight": "Home Care Journey",
+    "description": "Ready to provide the best pediatric home care services for your or your loved one? Contact B'Nore Care today for a free consultation. We're here to answer your questions and help you find the perfect home care solution.",
+    "stats": [
+      {
+        "number": "98%",
+        "label": "Client Satisfaction"
+      },
+      {
+        "number": "Free",
+        "label": "Initial Consultation"
+      },
+      {
+        "number": "Same Day",
+        "label": "Response Time"
+      }
+    ]
+  },
+  "contactInfo": {
+    "title": "Get in Touch",
+    "subtitle": "We're here to help you navigate your home care options. Reach out to us through any of these channels.",
+    "contactItems": [
+      {
+        "icon": "📞",
+        "title": "Call Us",
+        "details": "(770) 674-6448",
+        "subtext": "Monday to Friday (9:00am to 5:00pm), Weekends by Appointment",
+        "link": "tel:7706746448"
+      },
+      {
+        "icon": "📧",
+        "title": "Email Us",
+        "details": "support@bnorecare.com",
+        "subtext": "We respond within 24 hours",
+        "link": "mailto:support@bnorecare.com"
+      },
+      {
+        "icon": "📍",
+        "title": "Service Area",
+        "details": "Greater Atlanta & Surrounding Counties",
+        "subtext": "Serving families across Greater Atlanta and surrounding counties",
+        "link": null
+      },
+      {
+        "icon": "🕐",
+        "title": "Business Hours",
+        "details": "Monday to Friday (9:00am to 5:00pm)",
+        "subtext": "Weekends by Appointment",
+        "link": null
+      }
+    ],
+    "emergencyNotice": {
+      "title": "Emergency Situations",
+      "text": "For immediate home care needs or emergencies, please call 911"
+    }
+  },
+  "contactForm": {
+    "title": "Send Us a Message",
+    "subtitle": "Fill out the form below and we'll get back to you as soon as possible.",
+    "successMessage": {
+      "title": "Message Sent Successfully!",
+      "description": "Thank you for reaching out. We'll contact you within 24 hours."
+    },
+    "fields": {
+      "name": {
+        "label": "Full Name *",
+        "placeholder": "Enter your full name"
+      },
+      "email": {
+        "label": "Email Address *",
+        "placeholder": "Enter your email"
+      },
+      "phone": {
+        "label": "Phone Number",
+        "placeholder": "Enter your phone number"
+      },
+      "urgency": {
+        "label": "Timeline *",
+        "placeholder": "Select timeline"
+      },
+      "service": {
+        "label": "Service of Interest",
+        "placeholder": "Select a service (optional)"
+      },
+      "message": {
+        "label": "Message *",
+        "placeholder": "Tell us about your home care needs, questions, or any specific requirements..."
+      }
+    },
+    "options": {
+      "services": [
+        {
+          "value": "skilled-nursing",
+          "label": "Skilled Nursing"
+        },
+        {
+          "value": "personal-care",
+          "label": "Personal Care & Support"
+        },
+        {
+          "value": "respiratory-support",
+          "label": "Respiratory/Ventilator Support"
+        },
+        {
+          "value": "tracheostomy-care",
+          "label": "Tracheostomy Care"
+        },
+        {
+          "value": "g-tube-feeding",
+          "label": "G-Tube/Feeding Support"
+        },
+        {
+          "value": "assessment",
+          "label": "Free Assessment"
+        },
+        {
+          "value": "consultation",
+          "label": "Free Consultation"
+        },
+        {
+          "value": "other",
+          "label": "Other"
+        }
+      ],
+      "urgency": [
+        {
+          "value": "immediate",
+          "label": "Immediate (Within 24 hours)"
+        },
+        {
+          "value": "urgent",
+          "label": "Urgent (Within 3 days)"
+        },
+        {
+          "value": "soon",
+          "label": "Soon (Within a week)"
+        },
+        {
+          "value": "planning",
+          "label": "Planning ahead"
+        }
+      ]
+    },
+    "submitButton": "Send Message",
+    "submittingButton": "Sending Message...",
+    "privacyNote": "By submitting this form, you agree to our privacy policy. We will never share your personal information with third parties."
+  }
+}

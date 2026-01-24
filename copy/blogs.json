@@ -1,0 +1,76 @@
+{
+  "images": {
+    "hero": {
+      "main": "/assets/pic.jpg"
+    },
+    "articles": {
+      "featured": "/assets/p1.jpg",
+      "gallery": [
+        "/assets/p1.jpg",
+        "/assets/p2.jpg",
+        "/assets/p3.jpg",
+        "/assets/test1.jpg",
+        "/assets/test2.jpg"
+      ]
+    }
+  },
+  "hero": {
+    "badge": "Our Blog",
+    "title": "Pediatric Care Tips &",
+    "titleHighlight": "Insights",
+    "description": "Stay informed with our latest articles on pediatric home care, GAPP funding, medical safety, and family support strategies to help your child thrive at home.",
+    "stats": [
+      {
+        "number": "6",
+        "label": "Expert Articles"
+      },
+      {
+        "number": "6",
+        "label": "Categories"
+      },
+      {
+        "number": "Weekly",
+        "label": "New Content"
+      }
+    ]
+  },
+  "searchAndFilter": {
+    "searchPlaceholder": "Search articles...",
+    "categories": [
+      "All",
+      "Pediatric Care",
+      "Family Support",
+      "GAPP & Funding",
+      "Medical Safety",
+      "Therapies",
+      "School Support"
+    ]
+  },
+  "featuredArticle": {
+    "badge": "Featured Article",
+    "readFullArticle": "Read Full Article"
+  },
+  "blogGrid": {
+    "noResults": {
+      "title": "No articles found",
+      "description": "Try adjusting your search or filter criteria."
+    },
+    "readMore": "Read more",
+    "loadMore": "Load More Articles"
+  },
+  "newsletter": {
+    "title": "Stay Updated",
+    "description": "Get the latest care tips and insights delivered to your inbox weekly.",
+    "emailPlaceholder": "Enter your email address",
+    "subscribeButton": "Subscribe",
+    "privacyText": "We respect your privacy. Unsubscribe at any time."
+  },
+  "articleView": {
+    "backToBlogs": "← Back to All Blogs",
+    "cta": {
+      "title": "Ready to Get Started?",
+      "description": "Contact B'Nore Care today to learn more about our home care services.",
+      "button": "Schedule Free Consultation"
+    }
+  }
+}

@@ -1,0 +1,149 @@
+{
+    "hero": {
+        "badge": "Conditions We Serve",
+        "title": "Your Child's Diagnosis Doesn't Define Them—",
+        "titleHighlight": "But We Understand It",
+        "description": "We've cared for children with dozens of different diagnoses, and here's what we've learned: the medical terminology matters less than understanding what your family lives with every single day. Your child isn't 'the CP kid' or 'the trach baby.' They're a whole person who happens to have a medical condition that requires skilled nursing care. We get that."
+    },
+    "intro": {
+        "text": "Below, you'll find information about some of the conditions we commonly serve. But please know: even if your child's diagnosis isn't listed here, we probably have experience with it. And if we don't, we'll be honest about that and help you find someone who does.",
+        "emphasis": "What matters most isn't whether we've memorized every detail of your child's rare genetic condition—it's whether we're willing to listen, learn, and partner with you to provide the best possible care."
+    },
+    "conditions": [
+        {
+            "id": "cerebral-palsy",
+            "title": "Cerebral Palsy",
+            "subtitle": "We know CP looks different for every child—from mild motor challenges to significant physical limitations.",
+            "description": "Whether your child has spastic, dyskinetic, ataxic, or mixed CP, our nurses understand the unique challenges: muscle tone issues, positioning needs, feeding difficulties, and the exhaustion that comes from constant physical therapy appointments.",
+            "whatWeGet": "We get that you're tired of people staring. We get that finding comfortable positions takes forever. We get that feeding can take an hour. And we're patient with all of it.",
+            "howWeHelp": [
+                "Positioning that prevents contractures and pressure sores",
+                "Feeding support that respects your child's pace",
+                "Medication management for tone and seizures",
+                "Communication support (AAC devices, sign language)",
+                "Coordination with PT/OT/speech therapy"
+            ]
+        },
+        {
+            "id": "spina-bifida",
+            "title": "Spina Bifida",
+            "subtitle": "Spina bifida comes with a long list of medical needs—and we're here to help you manage all of them.",
+            "description": "From bladder and bowel programs to mobility support and shunt monitoring, we understand the complexity of spina bifida care. We know you're constantly watching for signs of shunt malfunction, managing UTIs, and advocating for your child's independence.",
+            "whatWeGet": "We get that cathing your child multiple times a day is exhausting. We get the anxiety around shunt failures. We get that you want your child to have as normal a life as possible despite the medical complexity.",
+            "howWeHelp": [
+                "Clean intermittent catheterization",
+                "Bowel management programs",
+                "Shunt monitoring and emergency recognition",
+                "Skin integrity checks",
+                "Mobility and transfer support",
+                "Advocacy for independence and inclusion"
+            ]
+        },
+        {
+            "id": "congenital-heart-defects",
+            "title": "Congenital Heart Defects",
+            "subtitle": "Living with a heart condition means constant vigilance—and you shouldn't have to do it alone.",
+            "description": "Whether your child has had multiple surgeries or is managing their condition medically, we understand the fear that comes with every fever, every change in color, every moment of increased fatigue. We're trained to recognize cardiac symptoms early.",
+            "whatWeGet": "We get that you check on your child multiple times during the night. We get the panic when they turn blue. We get that you've memorized every cardiologist's phone number. And we're here to share that burden.",
+            "howWeHelp": [
+                "Vital signs monitoring and trending",
+                "Medication administration (cardiac meds, diuretics, anticoagulants)",
+                "Oxygen therapy and saturation monitoring",
+                "Activity tolerance assessment",
+                "Recognition of heart failure symptoms",
+                "Emergency response training"
+            ]
+        },
+        {
+            "id": "respiratory-trach-vent",
+            "title": "Respiratory Conditions & Trach/Vent Dependence",
+            "subtitle": "Breathing is something most people take for granted—but not your family.",
+            "description": "Whether your child has a trach, is on a ventilator, or has chronic lung disease, we know the constant vigilance required. We know the sound of every alarm, the fear of mucus plugs, the exhaustion of never sleeping deeply.",
+            "whatWeGet": "We get that you haven't slept through the night in years. We get the terror of equipment failure. We get that you're always listening for breathing changes. And we're here so you can finally rest.",
+            "howWeHelp": [
+                "Tracheostomy care and emergency changes",
+                "Ventilator management and troubleshooting",
+                "Suctioning and airway clearance",
+                "Chest physiotherapy",
+                "Oxygen therapy",
+                "24/7 respiratory monitoring"
+            ]
+        },
+        {
+            "id": "seizure-disorders",
+            "title": "Seizure Disorders & Epilepsy",
+            "subtitle": "Seizures are terrifying to watch—and we're here to help you through them.",
+            "description": "From well-controlled epilepsy to intractable seizures, we understand the unpredictability, the medication trials, the constant adjustments, and the fear of SUDEP (Sudden Unexpected Death in Epilepsy).",
+            "whatWeGet": "We get that you're always watching for triggers. We get the medication side effects. We get the school struggles. We get the fear every time your child is quiet for too long. And we're trained to handle seizures calmly and effectively.",
+            "howWeHelp": [
+                "Seizure monitoring and documentation",
+                "Emergency medication administration (Diastat, Nayzilam)",
+                "Recovery support and safety",
+                "Medication management and side effect monitoring",
+                "Trigger identification and avoidance",
+                "Communication with neurology team"
+            ]
+        },
+        {
+            "id": "feeding-disorders",
+            "title": "Feeding Disorders & G-Tube Dependence",
+            "subtitle": "Feeding should be simple—but for your child, it's complicated.",
+            "description": "Whether your child has a G-tube, GJ-tube, or struggles with oral feeding, we understand the challenges: reflux, retching, aspiration risk, and the grief of not being able to feed your child 'normally.'",
+            "whatWeGet": "We get the guilt around tube feeding. We get the constant vomiting. We get the frustration when people ask why you don't 'just feed them.' And we're here to support you without judgment.",
+            "howWeHelp": [
+                "G-tube/GJ-tube care and feeding",
+                "Reflux management and positioning",
+                "Oral motor therapy support",
+                "Nutritional monitoring",
+                "Feeding pump troubleshooting",
+                "Aspiration precautions"
+            ]
+        },
+        {
+            "id": "genetic-chromosomal",
+            "title": "Genetic & Chromosomal Disorders",
+            "subtitle": "Your child's diagnosis might be rare, but you're not alone.",
+            "description": "From Down syndrome to rare genetic conditions, we provide compassionate care tailored to your child's unique needs. We know that genetic conditions often come with multiple system involvement and complex medical needs.",
+            "whatWeGet": "We get that you've had to become an expert on a condition most doctors have never seen. We get the frustration of explaining your child's needs over and over. We get that you're exhausted from coordinating multiple specialists. And we're here to help.",
+            "howWeHelp": [
+                "Multi-system care coordination",
+                "Developmental support",
+                "Medication management for complex regimens",
+                "Specialty care coordination",
+                "Family education and advocacy",
+                "Individualized care planning"
+            ]
+        },
+        {
+            "id": "neuromuscular-disorders",
+            "title": "Neuromuscular Disorders",
+            "subtitle": "Progressive conditions require care that adapts as your child's needs change.",
+            "description": "Whether your child has muscular dystrophy, SMA, or another neuromuscular condition, we understand the challenges of progressive weakness, respiratory decline, and the emotional weight of watching your child lose abilities.",
+            "whatWeGet": "We get the grief of progressive loss. We get the difficult decisions about interventions. We get that you're trying to maximize quality of life while managing complex medical needs. And we're here to support you through all of it.",
+            "howWeHelp": [
+                "Respiratory support and monitoring",
+                "Mobility and positioning as needs change",
+                "Feeding support and nutrition",
+                "Pain management",
+                "Equipment adaptation",
+                "Palliative care support when needed"
+            ]
+        }
+    ],
+    "notListed": {
+        "title": "Don't See Your Child's Condition Listed?",
+        "description": "That's okay. This list isn't exhaustive—it's just a starting point. We've cared for children with dozens of different diagnoses, from common conditions to ultra-rare genetic disorders.",
+        "subtitle": "What matters isn't whether we've seen your child's exact diagnosis before. What matters is:",
+        "questions": [
+            "Are we willing to learn about your child's specific needs?",
+            "Do we have the clinical skills to provide safe care?",
+            "Will we partner with you and your medical team?",
+            "Can we provide the level of care your child needs?"
+        ],
+        "conclusion": "If the answer to those questions is yes, then we can help. Call us and let's talk about your child's unique needs."
+    },
+    "cta": {
+        "primaryButton": "Call (770) 674-6448",
+        "secondaryButton": "Schedule a Call"
+    }
+}

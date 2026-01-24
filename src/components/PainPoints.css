@@ -1,0 +1,203 @@
+.pain-points-section {
+    padding: 100px 0;
+    background-color: var(--background-secondary, #f8fafc);
+    overflow: hidden;
+}
+
+.pain-points-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+.pain-points-content {
+    display: flex;
+    flex-direction: column;
+    gap: 60px;
+}
+
+.pain-points-top {
+    text-align: center;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.pain-points-badge {
+    background-color: rgba(var(--primary-rgb, 79, 137, 185), 0.1);
+    color: var(--primary-color, #4f89b9);
+    padding: 8px 16px;
+    border-radius: 100px;
+    font-size: 0.9rem;
+    font-weight: 600;
+    display: inline-block;
+    margin-bottom: 20px;
+}
+
+.pain-points-title {
+    font-size: clamp(2rem, 5vw, 3rem);
+    color: var(--text-primary, #1e293b);
+    margin-bottom: 24px;
+    line-height: 1.2;
+}
+
+.pain-points-title .title-highlight {
+    color: var(--primary-color, #4f89b9);
+}
+
+.pain-points-description {
+    font-size: 1.1rem;
+    color: var(--text-secondary, #64748b);
+    line-height: 1.6;
+}
+
+.pain-points-main {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 60px;
+    align-items: center;
+}
+
+.pain-points-image-wrapper {
+    position: relative;
+    border-radius: 24px;
+    overflow: hidden;
+    box-shadow: 0 20px 40px rgba(0, 0, 0, 0.1);
+}
+
+.pain-points-main-image {
+    width: 100%;
+    display: block;
+    aspect-ratio: 4/5;
+    object-fit: cover;
+}
+
+.pain-points-info {
+    display: flex;
+    flex-direction: column;
+    gap: 32px;
+}
+
+.pain-points-question-box {
+    padding: 0;
+    margin-bottom: 32px;
+}
+
+.pain-points-question-box-inner {
+    padding: 0;
+}
+
+.pain-points-question {
+    font-size: 1.5rem;
+    color: var(--text-primary, #1e293b);
+    margin-bottom: 12px;
+    font-weight: 700;
+}
+
+.pain-points-question-detail {
+    color: var(--text-secondary, #64748b);
+    line-height: 1.6;
+    font-size: 1.05rem;
+}
+
+.pain-points-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 24px;
+}
+
+.pain-point-item {
+    padding: 0;
+    background: transparent;
+}
+
+.pain-point-item-inner {
+    padding: 0;
+}
+
+.pain-point-header {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    margin-bottom: 8px;
+}
+
+.pain-point-icon {
+    background-color: var(--primary-color, #4f89b9);
+    color: white;
+    width: 24px;
+    height: 24px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 14px;
+    font-weight: 700;
+    flex-shrink: 0;
+}
+
+.pain-point-item-title {
+    font-size: 1.1rem;
+    font-weight: 700;
+    margin: 0;
+    color: var(--text-primary, #1e293b);
+}
+
+.pain-point-item-description {
+    font-size: 0.95rem;
+    color: var(--text-secondary, #64748b);
+    line-height: 1.5;
+    margin-left: 36px;
+}
+
+.pain-points-cta {
+    margin-top: 20px;
+    text-align: center;
+    background: var(--primary-color, #4f89b9);
+    color: white;
+    padding: 40px;
+    border-radius: 24px;
+}
+
+.pain-points-cta-text {
+    font-size: 1.2rem;
+    margin-bottom: 24px;
+    font-weight: 500;
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.pain-points-cta-btn {
+    background: white;
+    color: var(--primary-color, #4f89b9);
+    padding: 16px 32px;
+    border-radius: 100px;
+    font-weight: 700;
+    text-decoration: none;
+    display: inline-block;
+    transition: transform 0.3s ease;
+}
+
+.pain-points-cta-btn:hover {
+    transform: scale(1.05);
+}
+
+@media (max-width: 968px) {
+    .pain-points-main {
+        grid-template-columns: 1fr;
+    }
+
+    .pain-points-image-wrapper {
+        order: 2;
+    }
+
+    .pain-points-info {
+        order: 1;
+    }
+}
+
+@media (max-width: 640px) {
+    .pain-points-grid {
+        grid-template-columns: 1fr;
+    }
+}
