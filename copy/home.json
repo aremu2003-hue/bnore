@@ -3,9 +3,9 @@
     "logo": "https://res.cloudinary.com/df3anqibv/image/upload/v1769263451/bnorecare-logo-v2_jlwtgg.png",
     "hero": {
       "rotatingImages": [
-        "/Users/Apple/.gemini/antigravity/brain/58852a00-57ce-4314-8cb7-ed6eafe3ed89/pediatric_hero_1_1769078773955.png",
-        "/Users/Apple/.gemini/antigravity/brain/58852a00-57ce-4314-8cb7-ed6eafe3ed89/pediatric_hero_2_1769078791431.png",
-        "/Users/Apple/.gemini/antigravity/brain/58852a00-57ce-4314-8cb7-ed6eafe3ed89/pediatric_hero_3_1769078808430.png"
+        "https://res.cloudinary.com/df3anqibv/image/upload/v1769268011/pexels-pavel-danilyuk-5998449_v2kn2t.jpg",
+        "https://res.cloudinary.com/df3anqibv/image/upload/v1769267993/istockphoto-1388254153-612x612_pjlu8q.jpg",
+        "https://res.cloudinary.com/df3anqibv/image/upload/v1769268002/pexels-gustavo-fring-6285378_ei4wem.jpg"
       ],
       "decor": "/assets/download.svg"
     },
