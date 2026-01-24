@@ -10,11 +10,16 @@
       "decor": "/assets/download.svg"
     },
     "about": {
-      "main": "/Users/Apple/.gemini/antigravity/brain/58852a00-57ce-4314-8cb7-ed6eafe3ed89/pediatric_about_main_1769078824297.png"
+      "main": "https://res.cloudinary.com/df3anqibv/image/upload/v1769267993/istockphoto-1388254153-612x612_pjlu8q.jpg"
     },
     "services": {
       "serviceImages": [
-        "/Users/Apple/.gemini/antigravity/brain/58852a00-57ce-4314-8cb7-ed6eafe3ed89/pediatric_services_grid_1769078848240.png"
+        "https://res.cloudinary.com/df3anqibv/image/upload/v1769267993/istockphoto-1388254153-612x612_pjlu8q.jpg",
+        "https://res.cloudinary.com/df3anqibv/image/upload/v1769269059/img3_qw11ay_uzjope.jpg",
+        "https://res.cloudinary.com/df3anqibv/image/upload/v1769269074/Gemini_Generated_Image_h3h88yh3h88yh3h8_upqq4j.png",
+        "https://res.cloudinary.com/df3anqibv/image/upload/v1769269311/im6_ndxkca_wau56e.jpg",
+        "https://res.cloudinary.com/df3anqibv/image/upload/v1769269494/im7_oailnl_ev0stv.jpg",
+        "https://res.cloudinary.com/df3anqibv/image/upload/v1769269679/1M9_bapg65_slqy73.jpg"
       ],
       "verifiedIcon": "✓"
     },
@@ -29,12 +34,12 @@
     },
     "blog": {
       "articleImages": [
-        "https://res.cloudinary.com/dvauarkh6/image/upload/v1757652518/pexels-olly-3791664_skfn2f.jpg",
-        "https://res.cloudinary.com/dvauarkh6/image/upload/v1757651528/istockphoto-2047480956-612x612_ghepml.jpg",
-        "https://res.cloudinary.com/dvauarkh6/image/upload/v1757651536/istockphoto-2185020253-612x612_ir8lka.jpg",
-        "https://res.cloudinary.com/dvauarkh6/image/upload/v1753007261/pexels-kampus-7551617_2_rilfqn.jpg",
-        "https://res.cloudinary.com/dvauarkh6/image/upload/v1753007241/pexels-olly-3768131_rjvx7r.jpg",
-        "https://res.cloudinary.com/dvauarkh6/image/upload/v1757648020/pexels-mike-jones-8805864_tpce8a.jpg"
+        "https://res.cloudinary.com/df3anqibv/image/upload/v1769267993/istockphoto-1388254153-612x612_pjlu8q.jpg",
+        "https://res.cloudinary.com/df3anqibv/image/upload/v1769269059/img3_qw11ay_uzjope.jpg",
+        "https://res.cloudinary.com/df3anqibv/image/upload/v1769269074/Gemini_Generated_Image_h3h88yh3h88yh3h8_upqq4j.png",
+        "https://res.cloudinary.com/df3anqibv/image/upload/v1769269311/im6_ndxkca_wau56e.jpg",
+        "https://res.cloudinary.com/df3anqibv/image/upload/v1769269494/im7_oailnl_ev0stv.jpg",
+        "https://res.cloudinary.com/df3anqibv/image/upload/v1769269679/1M9_bapg65_slqy73.jpg"
       ],
       "profileImages": [
         "https://res.cloudinary.com/dvauarkh6/image/upload/v1759290370/pexels-fernando-capetillo-94107723-34093130_agqll2.jpg",
@@ -48,7 +53,7 @@
       ]
     },
     "refer": {
-      "main": "https://res.cloudinary.com/dvauarkh6/image/upload/v1757648078/pexels-kampus-7551646_mznizh.jpg"
+      "main": "https://res.cloudinary.com/df3anqibv/image/upload/v1769269059/img3_qw11ay_uzjope.jpg"
     }
   },
   "header": {
@@ -130,7 +135,7 @@
     "title": "Do You Need Pediatric",
     "titleHighlight": "Home Health Care in Atlanta?",
     "description": "Trying to find the right help for our children with special needs can feel daunting. Most families don't want their child in an institutional setting, and no one wants to force their child to leave their beloved home. Yet, family and friends lack the appropriate training or time to provide adequate care.",
-    "mainImage": "/Users/Apple/.gemini/antigravity/brain/58852a00-57ce-4314-8cb7-ed6eafe3ed89/pediatric_challenges_safety_1769079080557.png",
+    "mainImage": "https://res.cloudinary.com/df3anqibv/image/upload/v1769268608/pexels-pavel-danilyuk-5998507_d75s8r.jpg",
     "question": "Is Your Child Safe Alone at Home?",
     "questionDetail": "As our children with special needs grow, it can feel scary to manage their complex medical care at home. Plus, constant fear of what could happen if they have a medical emergency, equipment failure, or sudden change in condition can cause soul-crushing stress.",
     "points": [
