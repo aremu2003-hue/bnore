@@ -1,0 +1,67 @@
+{
+    "hero": {
+        "badge": "Senior Care Services",
+        "title": "Dignified Care for",
+        "titleHighlight": "Golden Years",
+        "description": "Compassionate, professional home care services designed to help seniors maintain their independence and quality of life in the comfort of their own homes. We accept private pay and insurance."
+    },
+    "packages": [
+        {
+            "name": "Classic",
+            "subtitle": "Essential Support",
+            "description": "Companionship, light personal care, and assistance with Activities of Daily Living (ADLs).",
+            "features": [
+                "Companionship & Socialization",
+                "Light Personal Care",
+                "Assistance with ADLs",
+                "Safety Supervision"
+            ]
+        },
+        {
+            "name": "Signature",
+            "subtitle": "Enhanced Care",
+            "description": "Includes all Classic features plus hands-on care, specialized routines, and regular family updates.",
+            "features": [
+                "Includes All Classic Features",
+                "Hands-on Personal Care",
+                "Establishment of Daily Routines",
+                "Regular Family Updates",
+                "Mobility Assistance"
+            ]
+        },
+        {
+            "name": "Premier",
+            "subtitle": "Advanced Care",
+            "description": "Includes all Signature features plus advanced care needs and dementia support.",
+            "features": [
+                "Includes All Signature Features",
+                "Advanced Care Needs Support",
+                "Dementia & Alzheimer's Support",
+                "24/7 Monitoring Options",
+                "Care Coordination"
+            ]
+        }
+    ],
+    "servicesList": [
+        {
+            "title": "Companion Care",
+            "description": "Alleviating loneliness with meaningful conversation, activity engagement, and social support.",
+            "image": "https://res.cloudinary.com/df3anqibv/image/upload/v1769268011/pexels-pavel-danilyuk-5998449_v2kn2t.jpg"
+        },
+        {
+            "title": "Personal Care",
+            "description": "Respectful assistance with activities of daily living like bathing, dressing, and hygiene.",
+            "image": "https://res.cloudinary.com/df3anqibv/image/upload/v1769267993/istockphoto-1388254153-612x612_pjlu8q.jpg"
+        },
+        {
+            "title": "Respite Care",
+            "description": "Temporary relief for primary caregivers, ensuring your loved one is safe while you recharge.",
+            "image": "https://res.cloudinary.com/df3anqibv/image/upload/v1769268002/pexels-gustavo-fring-6285378_ei4wem.jpg"
+        }
+    ],
+    "cta": {
+        "title": "Discuss Your Care Options",
+        "description": "Every senior's needs are unique. Call us to discuss our packages, pricing, and insurance coverage options.",
+        "button": "Call (770) 674-6448"
+    }
+}

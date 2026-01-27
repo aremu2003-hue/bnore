@@ -58,7 +58,7 @@
   },
   "header": {
     "logo": {
-      "alt": "B'Nore Care - Pediatric Home Care for Children & Adolescents with Special Needs in Greater Atlanta"
+      "alt": "B'Nore Care - Premium Home Care for ALL AGES, adolescents to seniors in Greater Atlanta"
     },
     "navigation": {
       "about": "About",
@@ -79,7 +79,9 @@
       "woundOstomy": "Wound Care & Ostomy",
       "seizureManagement": "Seizure Management",
       "skilledNursing": "Skilled Nursing Assessments",
-      "familyTraining": "Family Training & Support"
+      "familyTraining": "Family Training & Support",
+      "children": "Children's Services",
+      "seniors": "Senior Services"
     },
     "ctaButtons": {
       "contact": "Contact",
@@ -92,39 +94,39 @@
   },
   "hero": {
     "badge": "Free In-Home Assessment",
-    "mainHeading": "Pediatric Home Care for Children & Adolescents with Special Needs",
-    "mainDescription": "Our family-centered pediatric home care agency supports children with special needs, helping them thrive safely and joyfully at home.",
+    "mainHeading": "Premium Home Care for ALL AGES, adolescents to seniors.",
+    "mainDescription": "Our family-centered home care agency supports individuals of all ages with special needs, helping them thrive safely and joyfully at home.",
     "teamStats": "Serving Greater Atlanta and all surrounding counties with expert clinical care.",
     "ctaButton": "Call (770) 674-6448",
     "imageOverlay": {
       "badges": {
-        "personalCare": "PEDIATRIC CARE",
+        "personalCare": "PERSONAL CARE",
         "homeHealthCare": "SKILLED NURSING",
         "houstonTX": "GREATER ATLANTA AREA"
       }
     },
     "rotatingContent": [
       {
-        "heading": "Children With Special Needs Deserve Care That Feels Like Family",
-        "description": "We provide specialized medical care and daily support tailored to the unique complexities of pediatric health.",
+        "heading": "Individuals With Complex Needs Deserve Care That Feels Like Family",
+        "description": "We provide specialized medical care and daily support tailored to the unique complexities of each individual's health.",
         "popularHeading": "NP Owned",
         "popularDescription": "Expertise you can trust from our clinical leadership."
       },
       {
         "heading": "Serving Greater Atlanta With Compassion and Clinical Excellence.",
-        "description": "Helping children thrive safely and joyfully at home, where they feel most comfortable and loved.",
+        "description": "Helping your loved ones thrive safely and joyfully at home, where they feel most comfortable.",
         "popularHeading": "Service Area",
         "popularDescription": "Greater Atlanta area and all surrounding counties."
       },
       {
-        "heading": "Specialized Pediatric Nurses Are Here For Your Child.",
-        "description": "From Tracheostomy Care to Ventilator Support, our team is equipped to handle complex medical needs.",
+        "heading": "Specialized Nurses Are Here For Your Family.",
+        "description": "From Tracheostomy Care to Ventilator Support, our team is equipped to handle complex medical needs for all ages.",
         "popularHeading": "Accepting",
         "popularDescription": "GAPP, Medicare & Medicaid Accepted."
       },
       {
-        "heading": "Expert Care For Your Child's Unique Journey.",
-        "description": "We are here in Greater Atlanta offering specialized pediatric care options for your family's peace of mind.",
+        "heading": "Expert Care For Your Loved One's Unique Journey.",
+        "description": "We are here in Greater Atlanta offering specialized care options for your family's peace of mind.",
         "popularHeading": "Free Assessment",
         "popularDescription": "Free, no-obligation in-home assessment available."
       }
@@ -132,31 +134,31 @@
   },
   "painPoints": {
     "badge": "Specialized Support",
-    "title": "Do You Need Pediatric",
+    "title": "Do You Need Specialized",
     "titleHighlight": "Home Health Care in Atlanta?",
-    "description": "Trying to find the right help for our children with special needs can feel daunting. Most families don't want their child in an institutional setting, and no one wants to force their child to leave their beloved home. Yet, family and friends lack the appropriate training or time to provide adequate care.",
+    "description": "B'Nore Care is a nurse practitioner-owned agency in Greater Atlanta helping individuals with special needs thrive safely at home. We provide medically expert, family-centered care to ensure your loved one's safety while offering families the specialized support and respite they need to prevent burnout.",
     "mainImage": "https://res.cloudinary.com/df3anqibv/image/upload/v1769268608/pexels-pavel-danilyuk-5998507_d75s8r.jpg",
-    "question": "Is Your Child Safe Alone at Home?",
-    "questionDetail": "As our children with special needs grow, it can feel scary to manage their complex medical care at home. Plus, constant fear of what could happen if they have a medical emergency, equipment failure, or sudden change in condition can cause soul-crushing stress.",
+    "question": "Is Your Loved One Safe Alone at Home?",
+    "questionDetail": "As our loved ones with special needs require more support, it can feel scary to manage their complex medical care at home. Plus, constant fear of what could happen if they have a medical emergency, equipment failure, or sudden change in condition can cause soul-crushing stress.",
     "points": [
       {
         "title": "Medical Complexity",
         "description": "Managing complex medical care and equipment failure fears."
       },
       {
-        "title": "Designed for Children",
-        "description": "Care facilities often aren't designed with a child's joy in mind."
+        "title": "Designed for Comfort",
+        "description": "Care facilities often aren't designed with personal comfort and joy in mind."
       },
       {
         "title": "Specialized Nurses",
-        "description": "Qualifed pediatric nurses are hard to find for private home care."
+        "description": "Qualified nurses are hard to find for private home care."
       },
       {
-        "title": "Parental Respite",
-        "description": "Preventing burnout while ensuring your child's safety and comfort."
+        "title": "Family Respite",
+        "description": "Preventing burnout while ensuring your loved one's safety and comfort."
       }
     ],
-    "ctaText": "If you feel like you've run out of options, call us today. We are here in Greater Atlanta offering specialized pediatric care options!",
+    "ctaText": "If you feel like you've run out of options, call us today. We are here in Greater Atlanta offering specialized care options!",
     "ctaButton": "Call (770) 674-6448"
   },
   "statistics": {
@@ -178,20 +180,20 @@
     }
   },
   "about": {
-    "badge": "About B'Nore Care",
-    "title": "Children with Special Needs Deserve",
-    "titleHighlight": "Care That Feels Like Family",
-    "description": "B'Nore Care is a nurse practitioner-owned pediatric agency in Greater Atlanta helping children with special needs thrive safely at home. We provide medically expert, family-centered care to ensure your child's safety while offering parents the specialized support and respite they need to prevent burnout.",
+    "badge": "Care Philosophy",
+    "title": "We believe care is",
+    "titleHighlight": "not one-size-fits-all",
+    "description": "Our philosophy centers on individualized assessments, thoughtful matching, and continuous oversight. We serve the whole person—physical, emotional, and social—while supporting families as partners in care.",
     "imageOverlay": {
       "yearsExperience": "NP",
       "yearsLabel": "Nurse Practitioner Led"
     }
   },
   "services": {
-    "badge": "Our Pediatric Services",
+    "badge": "Our Services",
     "title": "Specialized Care Options",
-    "titleHighlight": "For Your Child's Needs",
-    "subtitle": "B'Nore Care offers a comprehensive range of clinical and personal care services designed to support children and adolescents with complex medical conditions in the comfort of their own home.",
+    "titleHighlight": "For Your Family's Needs",
+    "subtitle": "B'Nore Care offers a comprehensive range of clinical and personal care services designed to support individuals of all ages with complex medical conditions in the comfort of their own home.",
     "serviceCards": [
       {
         "title": "Skilled Nursing Assessments",
@@ -204,7 +206,7 @@
       },
       {
         "title": "Ventilator & Respiratory Support",
-        "description": "Specialized care for children requiring respiratory assistance, including ventilator management and monitoring.",
+        "description": "Specialized care for individuals requiring respiratory assistance, including ventilator management and monitoring.",
         "stats": {
           "clients": "Critical",
           "satisfaction": "Care"
@@ -240,7 +242,7 @@
       },
       {
         "title": "Seizure Management",
-        "description": "Vigilant monitoring and emergency response planning for children with seizure disorders.",
+        "description": "Vigilant monitoring and emergency response planning for individuals with seizure disorders.",
         "stats": {
           "clients": "Active",
           "satisfaction": "Safety"
@@ -251,7 +253,7 @@
     "learnMoreButton": "View All Services",
     "ctaSection": {
       "title": "Schedule Your Free In-Home Assessment Today!",
-      "description": "Our family-centered approach ensures your child gets the care they deserve. Call us at (770) 674-6448 or email support@bnorecare.com to start your journey.",
+      "description": "Our family-centered approach ensures your loved one gets the care they deserve. Call us at (770) 674-6448 or email support@bnorecare.com to start your journey.",
       "button": "Get Free Assessment"
     }
   },
@@ -260,22 +262,22 @@
     "trustPoints": [
       {
         "title": "Owned by a Nurse Practitioner",
-        "description": "Direct clinical leadership guarantees the highest standards of pediatric medical care and specialized expertise.",
+        "description": "Direct clinical leadership guarantees the highest standards of medical care and specialized expertise.",
         "icon": "◯"
       },
       {
-        "title": "Specialized Pediatric Training",
-        "description": "Our nurses and caregivers are specifically trained in complex pediatric needs, from ventilator support to wound care.",
+        "title": "Specialized Training",
+        "description": "Our nurses and caregivers are specifically trained in complex needs for all ages, from ventilator support to wound care.",
         "icon": "□"
       },
       {
-        "title": "GAPP & Medicaid Accepted",
-        "description": "We work with GAPP, Medicare, and Medicaid to ensure your child gets the support they need without financial barriers.",
+        "title": "GAPP, Medicaid & Waivers Accepted",
+        "description": "We work with GAPP, CCSP, SOURCE, Medicare, and Medicaid to ensure your family gets the support needed without financial barriers.",
         "icon": "◐"
       },
       {
         "title": "Family-Centered Respite",
-        "description": "We don’t just care for the child; we support parents to prevent burnout and provide peace of mind.",
+        "description": "We don’t just care for the patient; we support families to prevent burnout and provide peace of mind.",
         "icon": "◆"
       }
     ]
@@ -287,17 +289,17 @@
     "clientFeedbackLabel": "Parent Feedback",
     "testimonials": [
       {
-        "feedback": "B'Nore Care has been a lifesaver. Having a Nurse Practitioner oversee our son's care gives us a level of confidence we never had before. They truly feel like family.",
+        "feedback": "B'Nore Care has been a lifesaver. Having a Nurse Practitioner oversee our care gives us a level of confidence we never had before. They truly feel like family.",
         "name": "Sarah M.",
         "location": "Atlanta, GA"
       },
       {
-        "feedback": "The specialized nursing care for my daughter's tracheostomy has been exceptional. I can finally sleep at night knowing she is in safe, expert hands.",
+        "feedback": "The specialized nursing care for my mother's tracheostomy has been exceptional. I can finally sleep at night knowing she is in safe, expert hands.",
         "name": "James R.",
         "location": "Decatur, GA"
       },
       {
-        "feedback": "Finding a team that understands GAPP and complex pediatric needs in Atlanta was hard until we found B'Nore Care. They made the assessment so easy.",
+        "feedback": "Finding a team that understands complex needs in Atlanta was hard until we found B'Nore Care. They made the assessment so easy.",
         "name": "Elena W.",
         "location": "Marietta, GA"
       }
@@ -320,10 +322,10 @@
     "reasons": [
       {
         "title": "Expert Clinical Leadership",
-        "description": "Owned and operated by a Nurse Practitioner with deep expertise in pediatric complex care."
+        "description": "Owned and operated by a Nurse Practitioner with deep expertise in complex care."
       },
       {
-        "title": "Specialized Pediatric Options",
+        "title": "Specialized Care Options",
         "description": "We offer the critical services that many general home care agencies simply cannot provide."
       },
       {
@@ -338,30 +340,30 @@
     }
   },
   "blog": {
-    "badge": "Pediatric Insights",
+    "badge": "Care Insights",
     "title": "Care Tips for Families",
-    "subtitle": "Resources and advice for parents navigating the world of pediatric special needs and home health care.",
+    "subtitle": "Resources and advice for families navigating the world of home health care.",
     "articles": [
       {
-        "title": "Managing Complex Care at Home: A Parent's Guide",
+        "title": "Managing Complex Care at Home: A Family Guide",
         "category": "Home Health",
         "date": "1/20/2024",
         "readTime": "6 min read",
-        "excerpt": "Practical tips for organizing medical equipment and ensuring your child's safety at home."
+        "excerpt": "Practical tips for organizing medical equipment and ensuring your loved one's safety at home."
       },
       {
-        "title": "Understanding GAPP: Navigating Funding for Care",
+        "title": "Understanding Home Care Funding: GAPP, CCSP, & SOURCE",
         "category": "Funding",
         "date": "1/15/2024",
         "readTime": "10 min read",
-        "excerpt": "A deep dive into the Georgia Pediatric Program and how it can help your family access skilled nursing."
+        "excerpt": "A deep dive into Medicaid waiver programs such as the Georgia Pediatric Program (GAPP) and CCSP/SOURCE to help your family access skilled nursing."
       },
       {
-        "title": "Preventing Burnout for Special Needs Parents",
+        "title": "Preventing Burnout for Family Caregivers",
         "category": "Family Support",
         "date": "1/10/2024",
         "readTime": "5 min read",
-        "excerpt": "The importance of respite care and self-care for parents of children with complex medical needs."
+        "excerpt": "The importance of respite care and self-care for caregivers of individuals with complex medical needs."
       }
     ],
     "readMoreButton": "Read article",
@@ -370,7 +372,7 @@
   "contact": {
     "badge": "Contact Us",
     "title": "We Are Here To Help",
-    "subtitle": "Ready to discuss your child's unique care needs? Contact regular B'Nore Care today for a free, no-obligation in-home assessment.",
+    "subtitle": "Ready to discuss your loved one's unique care needs? Contact B'Nore Care today for a free, no-obligation in-home assessment.",
     "infoTitle": "Get In Touch",
     "contactInfo": [
       {
@@ -409,17 +411,17 @@
         "G-Tube/Feeding Support",
         "Free Assessment"
       ],
-      "messageLabel": "Your Child's Needs",
-      "messagePlaceholder": "Tell us about your child's unique milestones or care requirements...",
+      "messageLabel": "Your Loved One's Needs",
+      "messagePlaceholder": "Tell us about your loved one's unique needs or care requirements...",
       "submitButton": "Get Started"
     }
   },
   "newsletter": {
     "badge": "Stay Informed",
     "title": "Family Resource Update",
-    "subtitle": "Get the latest pediatric care tips and community resources delivered to your inbox.",
+    "subtitle": "Get the latest care tips and community resources delivered to your inbox.",
     "formTitle": "Join Our Community",
-    "formSubtitle": "Expert advice for special needs parents in Greater Atlanta.",
+    "formSubtitle": "Expert advice for families in Greater Atlanta.",
     "emailPlaceholder": "Enter your email address",
     "subscribeButton": "Subscribe",
     "successMessage": "✓ Registered! Welcome to the B'Nore Care community.",
@@ -428,15 +430,15 @@
   "faq": {
     "badge": "Common Questions",
     "title": "Frequently Asked Questions",
-    "subtitle": "Find answers about pediatric home health care and how B'Nore Care can support your family.",
+    "subtitle": "Find answers about home health care and how B'Nore Care can support your family.",
     "questions": [
       {
-        "question": "What is the specialized focus of B'Nore Care?",
-        "answer": "We specialize in pediatric home care for children and adolescents with special needs and complex medical conditions. Our agency is nurse practitioner-owned, ensuring a high level of clinical expertise."
+        "question": "What is the focus of B'Nore Care?",
+        "answer": "We specialize in home care for individuals of all ages, from children to seniors, with special needs and complex medical conditions. Our agency is nurse practitioner-owned, ensuring a high level of clinical expertise."
       },
       {
-        "question": "Do you accept the Georgia Pediatric Program (GAPP)?",
-        "answer": "Yes, we accept GAPP, as well as Medicare and Medicaid, to help families access the critical skilled nursing care their children need."
+        "question": "Do you accept GAPP and other Medicaid waivers?",
+        "answer": "Yes, we accept GAPP (for children), as well as CCSP, SOURCE, Medicare, and Medicaid to help families access the critical skilled nursing care their loved ones need."
       },
       {
         "question": "What areas of Atlanta do you serve?",
@@ -455,15 +457,15 @@
   },
   "footer": {
     "companyName": "B'Nore Care",
-    "companyDescription": "PEDIATRIC HOME CARE FOR CHILDREN & ADOLESCENTS WITH SPECIAL NEEDS. Helping children thrive safely and joyfully at home through expert clinical care and family support in Greater Atlanta.",
+    "companyDescription": "PREMIUM HOME CARE FOR ALL AGES, ADOLESCENTS TO SENIORS. Helping families thrive safely and joyfully at home through expert clinical care and support in Greater Atlanta.",
     "badges": [
       "NP Owned & Operated",
-      "Specialized Pediatric Care",
-      "GAPP & Medicaid Accepted"
+      "Specialized Care for All Ages",
+      "GAPP, Medicaid & Medicare"
     ],
     "sections": {
       "ourServices": {
-        "title": "Pediatric Services",
+        "title": "Services",
         "links": [
           "Skilled Nursing",
           "Respiratory Support",
@@ -517,11 +519,11 @@
     },
     "newsletter": {
       "title": "Subscribe to B'Nore Updates",
-      "description": "Receive expert pediatric care tips and news.",
+      "description": "Receive expert care tips and news.",
       "emailPlaceholder": "Enter your email",
       "subscribeButton": "Join Us"
     },
     "copyright": "© 2024 B'Nore Care. All rights reserved.",
-    "tagline": "PEDIATRIC HOME CARE FOR CHILDREN & ADOLESCENTS WITH SPECIAL NEEDS. Serving Greater Atlanta area and all surrounding counties."
+    "tagline": "PREMIUM HOME CARE FOR ALL AGES, ADOLESCENTS TO SENIORS. Serving Greater Atlanta area and all surrounding counties."
   }
 }

@@ -5,6 +5,7 @@ import { ThemeProvider } from './contexts/ThemeContext'
 import Home from './pages/Home'
 import About from './pages/About'
 import Services from './pages/Services'
+import ServicesSeniors from './pages/ServicesSeniors'
 import Blogs from './pages/Blogs'
 import Contact from './pages/Contact'
 import Careers from './pages/Careers'
@@ -31,6 +32,7 @@ function App() {
             <Route path="/" element={<Home />} />
             <Route path="/about" element={<About />} />
             <Route path="/services" element={<Services />} />
+            <Route path="/services/seniors" element={<ServicesSeniors />} />
             <Route path="/services/:serviceId" element={<Services />} />
             <Route path="/conditions" element={<Conditions />} />
             <Route path="/insurance" element={<Insurance />} />

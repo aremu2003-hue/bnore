@@ -19,10 +19,10 @@
     ]
   },
   "hero": {
-    "badge": "Pediatric Services",
-    "title": "Greater Atlanta Pediatric",
+    "badge": "Expert Services",
+    "title": "Greater Atlanta Specialized",
     "titleHighlight": "Home Health Care Services",
-    "description": "Skilled care delivered with compassion. Every service we provide comes with something you can't find on a clinical checklist: genuine care for your child as a whole person, not just a set of medical needs.",
+    "description": "Skilled care delivered with compassion. Every service we provide comes with something you can't find on a clinical checklist: genuine care for your loved one as a whole person, not just a set of medical needs.",
     "stats": [
       {
         "number": "10",
@@ -41,8 +41,8 @@
   "servicesIntro": {
     "title": "Here's What You Need to Know",
     "subtitle": "We could list every clinical procedure we're qualified to perform. We could use impressive medical terminology and talk about our certifications. And yes, all of that matters—you need to know we're competent.",
-    "description": "But here's what matters more: We understand that behind every 'service' is a child who might be scared, a parent who's exhausted, and a family that's been through more than most people can imagine.",
-    "emphasize": "So when we talk about 'tracheostomy care,' we're also talking about the nurse who notices your son gets anxious before suctioning and learns to warn him first. When we say 'medication administration,' we mean the nurse who remembers that your daughter's seizure med works better with applesauce, not pudding.",
+    "description": "But here's what matters more: We understand that behind every 'service' is a person who might be vulnerable, a family member who's exhausted, and a household that's been through more than most people can imagine.",
+    "emphasize": "So when we talk about 'tracheostomy care,' we're also talking about the nurse who notices when a patient gets anxious before suctioning and learns to provide reassurance first. When we say 'medication administration,' we mean the nurse who remembers that your loved one's medication routine needs to fit their life.",
     "tagline": "The technical skills are the baseline. The compassion, attention to detail, and genuine care? That's what makes us B'Nore Care."
   },
   "servicesList": [
@@ -50,43 +50,43 @@
       "id": "personal-care",
       "title": "Personal Care & Daily Living Support",
       "tagline": "Because dignity matters in every moment",
-      "description": "Bathing, dressing, grooming, feeding—these aren't just tasks on a checklist. They're intimate moments that require patience, gentleness, and respect for your child's comfort and dignity. Our nurses understand that how we do these things matters just as much as getting them done.",
+      "description": "Bathing, dressing, grooming, feeding—these aren't just tasks on a checklist. They're intimate moments that require patience, gentleness, and respect for your loved one's comfort and dignity. Our nurses understand that how we do these things matters just as much as getting them done.",
       "services": [
         "Bathing and hygiene assistance with patience and respect",
-        "Dressing and grooming tailored to your child's preferences",
+        "Dressing and grooming tailored to personal preferences",
         "Feeding support with attention to comfort and dignity",
         "Gentle positioning and transfer assistance"
       ],
-      "realTalk": "We know you've probably had aides who rush through bath time or don't notice that your daughter hates having her hair washed a certain way. Our nurses take the time to learn your child's preferences and honor them.",
-      "summary": "Our nurses take the time to learn your child's preferences and honor them—because dignity isn't negotiable."
+      "realTalk": "We know you've probably had aides who rush through care routines or don't notice specific preferences. Our nurses take the time to learn your loved one's preferences and honor them.",
+      "summary": "Our nurses take the time to learn personal preferences and honor them—because dignity isn't negotiable."
     },
     {
       "id": "mobility-positioning",
       "title": "Mobility & Positioning Assistance",
       "tagline": "Safe movement with comfort and care",
-      "description": "Safe transfers, comfortable positioning, and movement support that respects your child's body and comfort level. We know that improper positioning can lead to pain, pressure sores, and contractures—and we're meticulous about getting it right.",
+      "description": "Safe transfers, comfortable positioning, and movement support that respects the patient's body and comfort level. We know that improper positioning can lead to pain, pressure sores, and contractures—and we're meticulous about getting it right.",
       "services": [
         "Safe transfers using proper techniques",
         "Comfortable positioning to prevent pressure sores",
-        "Movement support with attention to anxiety levels",
+        "Movement support with attention to comfort levels",
         "Equipment assistance (wheelchairs, lifts, etc.)"
       ],
-      "realTalk": "If your child has specific positioning needs or gets anxious during transfers, we'll work with you to develop techniques that feel safe for everyone. No one should dread being moved.",
-      "summary": "We work with you to develop transfer techniques that feel safe and comfortable for your child."
+      "realTalk": "If your loved one has specific positioning needs or gets anxious during transfers, we'll work with you to develop techniques that feel safe for everyone. No one should dread being moved.",
+      "summary": "We work with you to develop transfer techniques that feel safe and comfortable for the patient."
     },
     {
       "id": "medication-administration",
       "title": "Medication Administration",
       "tagline": "The right med, right dose, right time—every time",
-      "description": "Timely, accurate medication management by nurses who understand your child's complete care plan. We don't just follow a chart—we know the 'why' behind every dose, watch for interactions, and communicate with your medical team.",
+      "description": "Timely, accurate medication management by nurses who understand the complete care plan. We don't just follow a chart—we know the 'why' behind every dose, watch for interactions, and communicate with the medical team.",
       "services": [
         "Accurate medication administration with multiple verification",
         "Monitoring for side effects and interactions",
-        "Communication with your child's medical team",
+        "Communication with the medical team",
         "Detailed documentation of all medications given"
       ],
-      "realTalk": "We've all heard the horror stories about medication errors. We use multiple verification systems and never, ever rush. Your child's safety is non-negotiable.",
-      "summary": "We use multiple verification systems and never rush—your child's medication safety is non-negotiable."
+      "realTalk": "We've all heard the horror stories about medication errors. We use multiple verification systems and never, ever rush. Patient safety is non-negotiable.",
+      "summary": "We use multiple verification systems and never rush—medication safety is non-negotiable."
     },
     {
       "id": "tracheostomy-care",
@@ -96,7 +96,7 @@
       "services": [
         "Expert tracheostomy care and suctioning",
         "Emergency trach tube changes",
-        "Parent training and support",
+        "Family training and support",
         "24/7 availability for backup support"
       ],
       "realTalk": "That moment when the trach needs changing and you're home alone? We get it. We're available 24/7, and we'll talk you through it or come to you if needed. You're not alone in this.",
@@ -106,7 +106,7 @@
       "id": "ventilator-respiratory",
       "title": "Ventilator & Respiratory Support",
       "tagline": "Breathing easier, together",
-      "description": "Ventilator management, oxygen therapy, chest physiotherapy, and breathing treatments delivered with skill and calm. We monitor closely, respond quickly to changes, and keep your child comfortable.",
+      "description": "Ventilator management, oxygen therapy, chest physiotherapy, and breathing treatments delivered with skill and calm. We monitor closely, respond quickly to changes, and keep the patient comfortable.",
       "services": [
         "Ventilator management and monitoring",
         "Oxygen therapy administration",
@@ -120,7 +120,7 @@
       "id": "gtube-feeding",
       "title": "G-Tube & Feeding Support",
       "tagline": "Nourishment with patience and care",
-      "description": "G-tube care, feeding administration, and nutritional monitoring. We handle tube placements, feeding schedules, and work with your dietitian to ensure your child gets the nutrition they need.",
+      "description": "G-tube care, feeding administration, and nutritional monitoring. We handle tube placements, feeding schedules, and work with dietitians to ensure your loved one gets the nutrition they need.",
       "services": [
         "G-tube feeding and care",
         "Feeding schedule management",
@@ -141,28 +141,28 @@
         "Ostomy care and management",
         "Pain-minimizing techniques"
       ],
-      "realTalk": "Wound care can be painful, and we know your child might be scared or resistant. We go slow, we explain what we're doing, and we never force anything. Trust is earned, not demanded.",
+      "realTalk": "Wound care can be painful, and we know patients might be anxious or resistant. We go slow, we explain what we're doing, and we never force anything. Trust is earned, not demanded.",
       "summary": "We go slow, explain what we're doing, and never force anything—trust is earned."
     },
     {
       "id": "seizure-management",
       "title": "Seizure Management & Monitoring",
       "tagline": "Vigilant care during vulnerable moments",
-      "description": "Seizure monitoring, emergency medication administration, and recovery support. We're trained to recognize seizure activity, respond appropriately, and keep your child safe.",
+      "description": "Seizure monitoring, emergency medication administration, and recovery support. We're trained to recognize seizure activity, respond appropriately, and keep the patient safe.",
       "services": [
         "Continuous seizure monitoring",
         "Emergency medication administration",
         "Recovery positioning and support",
         "Detailed documentation for neurologists"
       ],
-      "realTalk": "Watching your child have a seizure never gets easier. Our nurses stay calm, follow your seizure action plan, and document everything so you have accurate information for the neurologist.",
+      "realTalk": "Watching a loved one have a seizure never gets easier. Our nurses stay calm, follow the seizure action plan, and document everything so you have accurate information for the neurologist.",
       "summary": "Our nurses stay calm, follow your plan, and document everything for your neurologist."
     },
     {
       "id": "skilled-nursing",
       "title": "Skilled Nursing Assessments",
       "tagline": "Clinical expertise with a caring heart",
-      "description": "Ongoing health monitoring, vital signs, symptom management, and communication with your child's medical team. We catch small changes before they become big problems.",
+      "description": "Ongoing health monitoring, vital signs, symptom management, and communication with the medical team. We catch small changes before they become big problems.",
       "services": [
         "Comprehensive health assessments",
         "Vital signs monitoring",
@@ -176,14 +176,14 @@
       "id": "family-training",
       "title": "Family Training & Support",
       "tagline": "Empowering you with knowledge and confidence",
-      "description": "We don't just care for your child—we teach you techniques, answer your questions (no matter how small), and build your confidence to handle care when we're not there.",
+      "description": "We don't just care for your loved one—we teach you techniques, answer your questions (no matter how small), and build your confidence to handle care when we're not there.",
       "services": [
         "Hands-on care technique training",
         "Equipment use instruction",
         "Emergency procedure preparation",
         "Unlimited question answering"
       ],
-      "realTalk": "There's no such thing as a stupid question. Ask us a hundred times how to do something—we'll show you a hundred and one times. Your child's safety depends on you feeling confident, and we're here to make that happen.",
+      "realTalk": "There's no such thing as a stupid question. Ask us a hundred times how to do something—we'll show you a hundred and one times. Your loved one's safety depends on you feeling confident, and we're here to make that happen.",
       "summary": "Ask us a hundred times—we'll show you a hundred and one. Your confidence matters."
     }
   ],
@@ -193,7 +193,7 @@
     "items": [
       {
         "title": "No 'One Size Fits All'",
-        "description": "We don't do 'one size fits all' care plans. Every child is different, and cookie-cutter approaches don't work. We customize everything to your child's needs."
+        "description": "We don't do 'one size fits all' care plans. Every person is different, and cookie-cutter approaches don't work. We customize everything to individual needs."
       },
       {
         "title": "No Random Assignments",
@@ -213,14 +213,14 @@
     "whatWeProvide": "What We Provide",
     "keyBenefits": "Why Families Choose Us",
     "realTalk": "Real Talk",
-    "ctaTitle": "Let's Talk About What Your Child Needs",
-    "ctaDescription": "Every child's care plan is unique. Let's have a conversation about your specific situation—no pressure, no sales pitch. Just honest answers to your questions.",
+    "ctaTitle": "Let's Discuss Your Care Needs",
+    "ctaDescription": "Every care plan is unique. Let's have a conversation about your specific situation—no pressure, no sales pitch. Just honest answers to your questions.",
     "ctaButton": "Call (770) 674-6448",
     "ctaButtonSecondary": "Schedule a Call",
     "ctaFooter": "Free, no-obligation consultation • Available 24/7 • Serving Greater Atlanta"
   },
   "contact": {
-    "title": "Get a personalized care plan for your child",
+    "title": "Get a personalized care plan for your loved one",
     "contactInfo": [
       {
         "icon": "📞",
@@ -238,7 +238,7 @@
         "icon": "📍",
         "title": "Service Area",
         "details": "Greater Atlanta & Surrounding Counties",
-        "subtitle": "Serving families throughout Metro Atlanta with specialized pediatric care"
+        "subtitle": "Serving families throughout Metro Atlanta with specialized care"
       }
     ]
   }

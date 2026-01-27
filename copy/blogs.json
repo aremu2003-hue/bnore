@@ -16,9 +16,9 @@
   },
   "hero": {
     "badge": "Our Blog",
-    "title": "Pediatric Care Tips &",
+    "title": "Expert Care Tips &",
     "titleHighlight": "Insights",
-    "description": "Stay informed with our latest articles on pediatric home care, GAPP funding, medical safety, and family support strategies to help your child thrive at home.",
+    "description": "Stay informed with our latest articles on home care, GAPP funding, medical safety, and family support strategies to help your loved one thrive at home.",
     "stats": [
       {
         "number": "6",
@@ -38,12 +38,12 @@
     "searchPlaceholder": "Search articles...",
     "categories": [
       "All",
-      "Pediatric Care",
+      "Specialized Care",
       "Family Support",
       "GAPP & Funding",
       "Medical Safety",
       "Therapies",
-      "School Support"
+      "Community Support"
     ]
   },
   "featuredArticle": {

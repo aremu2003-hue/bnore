@@ -1,41 +1,72 @@
-
 /* Prevent horizontal scroll */
 * {
   box-sizing: border-box;
 }
 
-html, body {
+html,
+body {
   overflow-x: hidden;
   max-width: 100vw;
   overflow-y: auto;
 }
 
 /* Prevent horizontal scroll on all containers */
-#root, .App, .page-wrapper {
+#root,
+.App,
+.page-wrapper {
   overflow-x: hidden;
   max-width: 100vw;
 }
 
 /* Main content z-index management */
-main, .main-content, .page-content {
+main,
+.main-content,
+.page-content {
   position: relative;
   z-index: 1;
-  margin-top: 80px; /* Account for fixed header height */
+  margin-top: 80px;
+  /* Account for fixed header height */
 }
 
 /* Ensure first section after header has proper spacing */
-.hero, .hero-section, .page-hero, .about-hero, .services-hero, .contact-hero, .careers-hero, .scheduling-hero, .refer-hero, .blog-hero, .hero-container {
-  margin-top: 0; /* Reset any existing margin-top */
-  padding-top: 56px !important; /* Add padding to first section */
+.hero,
+.hero-section,
+.page-hero,
+.about-hero,
+.services-hero,
+.contact-hero,
+.careers-hero,
+.scheduling-hero,
+.refer-hero,
+.blog-hero,
+.hero-container {
+  margin-top: 0;
+  /* Reset any existing margin-top */
+  padding-top: 56px !important;
+  /* Add padding to first section */
 }
 
 /* Page wrapper spacing */
-.services-page, .refer-us-page, .contact-page, .scheduling-page, .blogs-page, .careers-page, .about-page, .job-detail-page, .careers-hero,.services-hero, .about-hero,.scheduling-hero {
-  margin-top: 80px !important; /* Account for fixed header */
+.services-page,
+.refer-us-page,
+.contact-page,
+.scheduling-page,
+.blogs-page,
+.careers-page,
+.about-page,
+.job-detail-page,
+.careers-hero,
+.services-hero,
+.about-hero,
+.scheduling-hero {
+  margin-top: 80px !important;
+  /* Account for fixed header */
 }
-a{
+
+a {
   text-decoration: none;
 }
+
 .header {
   width: 100%;
   max-width: 100vw;
@@ -294,7 +325,7 @@ a{
 }
 
 .cta-book:hover {
-    background-color: var(--interactive-primary-hover);
+  background-color: var(--interactive-primary-hover);
   border-color: var(--interactive-primary-hover);
 }
 
@@ -377,7 +408,7 @@ a{
   padding: 0;
 }
 
-.mobile-nav-list > li {
+.mobile-nav-list>li {
   margin-bottom: 8px;
 }
 
@@ -508,7 +539,7 @@ a{
   .nav-list {
     gap: 20px;
   }
-  
+
   .nav-link {
     font-size: 15px;
   }
@@ -518,19 +549,19 @@ a{
   .header-container {
     padding: 0 20px;
   }
-  
+
   .nav-list {
     gap: 16px;
   }
-  
+
   .nav-link {
     font-size: 14px;
   }
-  
+
   .cta-buttons1:not(.desktop-cta) {
     gap: 8px;
   }
-  
+
   .dropdown-menu {
     min-width: 200px;
   }
@@ -540,18 +571,18 @@ a{
   .nav-list {
     gap: 12px;
   }
-  
+
   .nav-link {
     font-size: 13px;
   }
-  
+
   .dropdown-menu {
     min-width: 200px;
     left: 0;
     transform: none;
     z-index: 1002;
   }
-  
+
   .dropdown-menu.show {
     transform: translateY(0);
   }
@@ -562,53 +593,53 @@ a{
     padding: 0 16px;
     height: 70px;
   }
-  
+
   .desktop-nav {
     display: none;
   }
-  
+
   .desktop-social {
     display: flex;
     gap: 8px;
   }
-  
+
   .desktop-social .social-link {
     width: 32px;
     height: 32px;
   }
-  
+
   .desktop-social .social-link svg {
     width: 18px;
     height: 18px;
   }
-  
+
   .header-container .cta-buttons1.desktop-cta {
     display: none !important;
   }
-  
+
   .header-container .desktop-cta .gooey-btn-container {
     display: none !important;
   }
-  
+
   .mobile-menu-btn {
     display: block;
   }
-  
+
   .logo {
     font-size: 20px;
     height: 50px;
   }
-  
+
   .logo img {
     height: 40px;
   }
-  
+
   .dropdown-menu {
     min-width: 200px;
     left: 0;
     transform: none;
   }
-  
+
   .dropdown-menu.show {
     transform: translateY(0);
   }
@@ -619,51 +650,51 @@ a{
     padding: 0 12px;
     height: 65px;
   }
-  
+
   .logo {
     height: 45px;
   }
-  
+
   .logo img {
     height: 35px;
   }
-  
+
   .desktop-social {
     gap: 6px;
   }
-  
+
   .desktop-social .social-link {
     width: 30px;
     height: 30px;
   }
-  
+
   .desktop-social .social-link svg {
     width: 16px;
     height: 16px;
   }
-  
+
   .header-container .cta-buttons1.desktop-cta {
     display: none !important;
   }
-  
+
   .header-container .desktop-cta .gooey-btn-container {
     display: none !important;
   }
-  
+
   .mobile-nav {
     width: 280px;
     max-width: 85vw;
   }
-  
+
   .mobile-nav-content {
     padding: 80px 20px 20px;
   }
-  
+
   .mobile-nav-link {
     font-size: 16px;
     padding: 14px 0;
   }
-  
+
   .mobile-cta-btn {
     padding: 14px 20px;
     font-size: 15px;
@@ -674,23 +705,85 @@ a{
   .header-container {
     padding: 0 10px;
   }
-  
+
   .header-container .cta-buttons1.desktop-cta {
     display: none !important;
   }
-  
+
   .header-container .desktop-cta .gooey-btn-container {
     display: none !important;
   }
-  
+
   .mobile-nav {
     width: 100vw;
     max-width: 100vw;
     right: -100vw;
   }
-  
+
   .mobile-nav.active {
     right: 0;
   }
 }
 
+
+/* Services Mega Menu */
+.services-dropdown {
+  min-width: 600px !important;
+  display: flex !important;
+  padding: 0 !important;
+  overflow: hidden;
+}
+
+.services-column {
+  flex: 1;
+  padding: 16px 0;
+  display: flex;
+  flex-direction: column;
+}
+
+.services-column:first-child {
+  border-right: 1px solid var(--border-light);
+  background-color: var(--bg-surface);
+}
+
+.services-column h4 {
+  margin: 0 0 12px 20px;
+  font-size: 13px;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  color: var(--text-tertiary);
+  font-weight: 700;
+}
+
+/* Mobile Services Styles */
+.mobile-services-section {
+  padding-bottom: 12px;
+}
+
+.mobile-services-section:first-child {
+  border-bottom: 1px solid var(--border-light);
+  margin-bottom: 12px;
+}
+
+.mobile-services-title {
+  padding: 0 20px 8px;
+  margin: 0;
+  font-size: 14px;
+  text-transform: uppercase;
+  color: var(--text-tertiary);
+  font-weight: 700;
+}
+
+@media (max-width: 900px) {
+
+  /* Reset mega menu styles for tablet/mobile if they act as specific dropdowns */
+  .services-dropdown {
+    display: block !important;
+    min-width: 220px !important;
+  }
+
+  .services-column {
+    padding: 8px 0;
+    border-right: none !important;
+  }
+}

@@ -11,18 +11,32 @@ function Header() {
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
   const navigate = useNavigate();
 
-  const services = [
-    { name: homeCopy.header.servicesDropdown.personalCare, href: '/services/personal-care' },
-    { name: homeCopy.header.servicesDropdown.mobilityPositioning, href: '/services/mobility-positioning' },
-    { name: homeCopy.header.servicesDropdown.medicationAdmin, href: '/services/medication-administration' },
-    { name: homeCopy.header.servicesDropdown.tracheostomyCare, href: '/services/tracheostomy-care' },
-    { name: homeCopy.header.servicesDropdown.ventilatorRespiratory, href: '/services/ventilator-respiratory' },
-    { name: homeCopy.header.servicesDropdown.gtubFeeding, href: '/services/gtube-feeding' },
-    { name: homeCopy.header.servicesDropdown.woundOstomy, href: '/services/wound-ostomy' },
-    { name: homeCopy.header.servicesDropdown.seizureManagement, href: '/services/seizure-management' },
-    { name: homeCopy.header.servicesDropdown.skilledNursing, href: '/services/skilled-nursing' },
-    { name: homeCopy.header.servicesDropdown.familyTraining, href: '/services/family-training' }
-  ];
+  const serviceColumns = {
+    children: {
+      title: "Children's Services",
+      items: [
+        { name: homeCopy.header.servicesDropdown.personalCare, href: '/services/personal-care' },
+        { name: homeCopy.header.servicesDropdown.mobilityPositioning, href: '/services/mobility-positioning' },
+        { name: homeCopy.header.servicesDropdown.medicationAdmin, href: '/services/medication-administration' },
+        { name: homeCopy.header.servicesDropdown.tracheostomyCare, href: '/services/tracheostomy-care' },
+        { name: homeCopy.header.servicesDropdown.ventilatorRespiratory, href: '/services/ventilator-respiratory' },
+        { name: homeCopy.header.servicesDropdown.gtubFeeding, href: '/services/gtube-feeding' },
+        { name: homeCopy.header.servicesDropdown.woundOstomy, href: '/services/wound-ostomy' },
+        { name: homeCopy.header.servicesDropdown.seizureManagement, href: '/services/seizure-management' },
+        { name: homeCopy.header.servicesDropdown.skilledNursing, href: '/services/skilled-nursing' },
+        { name: homeCopy.header.servicesDropdown.familyTraining, href: '/services/family-training' }
+      ]
+    },
+    seniors: {
+      title: "Senior Services",
+      items: [
+        { name: "Senior Care Overview", href: '/services/seniors' },
+        { name: "Companion Care", href: '/services/seniors' },
+        { name: "Personal Care", href: '/services/seniors' },
+        { name: "Respite Care", href: '/services/seniors' }
+      ]
+    }
+  };
 
   const resources = [
     { name: 'County resources', href: '/resources/county' },
@@ -127,12 +141,23 @@ function Header() {
                 {homeCopy.header.navigation.services}
                 <span className={`dropdown-arrow ${isServicesOpen ? 'open' : ''}`}>▼</span>
               </Link>
-              <div className={`dropdown-menu ${isServicesOpen ? 'show' : ''}`}>
-                {services.map((service, index) => (
-                  <Link key={index} to={service.href} className="dropdown-item">
-                    {service.name}
-                  </Link>
-                ))}
+              <div className={`dropdown-menu services-dropdown ${isServicesOpen ? 'show' : ''}`}>
+                <div className="services-column">
+                  <h4>{serviceColumns.children.title}</h4>
+                  {serviceColumns.children.items.map((service, index) => (
+                    <Link key={index} to={service.href} className="dropdown-item">
+                      {service.name}
+                    </Link>
+                  ))}
+                </div>
+                <div className="services-column">
+                  <h4>{serviceColumns.seniors.title}</h4>
+                  {serviceColumns.seniors.items.map((service, index) => (
+                    <Link key={index} to={service.href} className="dropdown-item">
+                      {service.name}
+                    </Link>
+                  ))}
+                </div>
               </div>
             </li>
             <li><Link to="/conditions" className="nav-link">{homeCopy.header.navigation.conditions}</Link></li>
@@ -228,16 +253,32 @@ function Header() {
                 <span className={`dropdown-arrow ${isServicesOpen ? 'open' : ''}`}>▼</span>
               </button>
               <div className={`mobile-dropdown-menu ${isServicesOpen ? 'show' : ''}`}>
-                {services.map((service, index) => (
-                  <Link
-                    key={index}
-                    to={service.href}
-                    className="mobile-dropdown-item"
-                    onClick={closeMobileMenu}
-                  >
-                    {service.name}
-                  </Link>
-                ))}
+                <div className="mobile-services-section">
+                  <h4 className="mobile-services-title">{serviceColumns.children.title}</h4>
+                  {serviceColumns.children.items.map((service, index) => (
+                    <Link
+                      key={`child-${index}`}
+                      to={service.href}
+                      className="mobile-dropdown-item"
+                      onClick={closeMobileMenu}
+                    >
+                      {service.name}
+                    </Link>
+                  ))}
+                </div>
+                <div className="mobile-services-section">
+                  <h4 className="mobile-services-title">{serviceColumns.seniors.title}</h4>
+                  {serviceColumns.seniors.items.map((service, index) => (
+                    <Link
+                      key={`senior-${index}`}
+                      to={service.href}
+                      className="mobile-dropdown-item"
+                      onClick={closeMobileMenu}
+                    >
+                      {service.name}
+                    </Link>
+                  ))}
+                </div>
               </div>
             </li>
             <li>

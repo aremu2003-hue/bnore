@@ -3,19 +3,19 @@
         "badge": "Insurance & Payment Options",
         "title": "We'll Help You Navigate",
         "titleHighlight": "the Insurance Maze",
-        "description": "Insurance paperwork is confusing, frustrating, and sometimes feels designed to make you give up. We won't let that happen. We'll help you get the coverage your child deserves."
+        "description": "Insurance paperwork is confusing, frustrating, and sometimes feels designed to make you give up. We won't let that happen. We'll help you get the coverage your family deserves."
     },
     "honestTalk": {
         "title": "Let's Be Honest About Insurance",
         "paragraphs": [
-            "Dealing with insurance for pediatric home health care is a nightmare. There, we said it. The denials, the prior authorizations, the endless phone calls, the forms that ask the same questions seventeen different ways—it's exhausting.",
-            "You're already managing your child's medical needs, coordinating specialist appointments, fighting with the school district, and trying to keep your family functioning. The last thing you need is to become an expert in insurance billing codes.",
+            "Dealing with insurance for home health care is a nightmare. The denials, the prior authorizations, the endless phone calls, the forms that ask the same questions seventeen different ways—it's exhausting.",
+            "You're already managing your loved one's medical needs, coordinating appointments, and trying to keep your family functioning. The last thing you need is to become an expert in insurance billing codes.",
             "That's where we come in. We've been doing this for years, and we know how to get approvals, fight denials, and navigate the system. You shouldn't have to do this alone."
         ]
     },
     "insurancePrograms": {
         "title": "Insurance Programs We Accept",
-        "subtitle": "We work with GAPP, Medicare, and Medicaid to provide skilled nursing care with no out-of-pocket costs for qualified families.",
+        "subtitle": "We work with GAPP, Medicare, Medicaid, and Waiver Programs like CCSP and SOURCE to provide skilled nursing care with no out-of-pocket costs for qualified families.",
         "programs": [
             {
                 "id": "gapp",
@@ -23,7 +23,7 @@
                 "fullName": "Georgia Pediatric Program",
                 "description": "A Medicaid program providing private home care for disabled children ages 5-21 who qualify for skilled and non-skilled home care.",
                 "features": [
-                    "Ages 5-21",
+                    "Ages 5-21 (Pediatric)",
                     "No out-of-pocket costs",
                     "Skilled & non-skilled care",
                     "Greater Atlanta area"
@@ -45,12 +45,24 @@
                 "id": "medicaid",
                 "name": "Medicaid",
                 "fullName": "Georgia Medicaid",
-                "description": "We work with Georgia Medicaid to provide comprehensive pediatric home health services with no out-of-pocket costs.",
+                "description": "We work with Georgia Medicaid to provide comprehensive home health services for all ages with no out-of-pocket costs.",
                 "features": [
                     "No out-of-pocket costs",
                     "Comprehensive services",
                     "Waiver programs",
                     "We handle paperwork"
+                ]
+            },
+            {
+                "id": "waivers",
+                "name": "CCSP / SOURCE",
+                "fullName": "Medicaid Waiver Programs",
+                "description": "We accept Community Care Services Program (CCSP) and Service Options Using Resources in a Community Environment (SOURCE) for eligible elderly and disabled individuals.",
+                "features": [
+                    "For Elderly/Disabled",
+                    "In-home support services",
+                    "Alternative to nursing homes",
+                    "Case management included"
                 ]
             }
         ]
@@ -62,12 +74,12 @@
             {
                 "number": "1",
                 "title": "We Check Your Eligibility",
-                "description": "Not sure if your child qualifies? We'll review your situation and let you know which programs you're eligible for. No guessing, no wasted applications."
+                "description": "Not sure if your loved one qualifies? We'll review your situation and let you know which programs you're eligible for. No guessing, no wasted applications."
             },
             {
                 "number": "2",
                 "title": "We Complete the Applications",
-                "description": "Those 47-page application forms? We'll help you fill them out correctly the first time. We know exactly what documentation is needed and how to present your child's needs in a way that gets approved."
+                "description": "Those 47-page application forms? We'll help you fill them out correctly the first time. We know exactly what documentation is needed and how to present the needs in a way that gets approved."
             },
             {
                 "number": "3",
@@ -77,7 +89,7 @@
             {
                 "number": "4",
                 "title": "We Handle All Billing",
-                "description": "You'll never see a bill from us. We bill insurance directly, handle all the paperwork, and deal with any billing issues. Your job is to focus on your child—not on medical bills."
+                "description": "You'll never see a bill from us. We bill insurance directly, handle all the paperwork, and deal with any billing issues. Your job is to focus on your loved one—not on medical bills."
             },
             {
                 "number": "5",
@@ -90,12 +102,12 @@
         "title": "Common Insurance Questions",
         "questions": [
             {
-                "question": "What if my child doesn't qualify for GAPP, Medicare, or Medicaid?",
-                "answer": "Let's talk. There are other programs and options we can explore. We'll help you find a way to get your child the care they need, even if it means connecting you with other resources or agencies."
+                "question": "What if my loved one doesn't qualify for GAPP, Medicare, or Medicaid?",
+                "answer": "Let's talk. There are other programs and options we can explore, like CCSP or SOURCE. We'll help you find a way to get the care needed, even if it means connecting you with other resources."
             },
             {
                 "question": "How long does the approval process take?",
-                "answer": "It varies, but typically 2-6 weeks for initial applications. If your child needs care urgently, let us know—we can sometimes expedite the process or arrange temporary coverage while we wait for approval."
+                "answer": "It varies, but typically 2-6 weeks for initial applications. If care is needed urgently, let us know—we can sometimes expedite the process or arrange temporary coverage while we wait for approval."
             },
             {
                 "question": "What if I've been denied before?",

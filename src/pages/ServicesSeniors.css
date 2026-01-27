@@ -1,0 +1,196 @@
+.packages-section {
+    padding: 80px 0;
+    background-color: var(--bg-primary);
+}
+
+.packages-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+    gap: 32px;
+    align-items: stretch;
+    margin-top: 40px;
+}
+
+.package-card {
+    background: var(--bg-primary);
+    border-radius: 24px;
+    padding: 40px 32px;
+    border: 1px solid var(--border-light);
+    display: flex;
+    flex-direction: column;
+    transition: all 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.03);
+    position: relative;
+    z-index: 1;
+}
+
+.package-card::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 6px;
+    background: var(--border-light);
+    border-radius: 24px 24px 0 0;
+    transition: all 0.3s ease;
+}
+
+.package-card:hover {
+    transform: translateY(-12px);
+    box-shadow: 0 20px 40px rgba(0, 0, 0, 0.08);
+}
+
+.package-card:hover::before {
+    height: 10px;
+}
+
+/* Specific Tier Colors */
+.package-card:nth-child(1)::before {
+    background: #94a3b8;
+}
+
+/* Slate for Classic */
+.package-card:nth-child(2)::before {
+    background: var(--interactive-primary-default);
+}
+
+/* Primary for Signature */
+.package-card:nth-child(3)::before {
+    background: #1e293b;
+}
+
+/* Deep Slate for Premier */
+
+.package-card h3 {
+    color: var(--text-primary);
+    font-size: 2rem;
+    font-weight: 800;
+    margin-bottom: 8px;
+    letter-spacing: -0.5px;
+}
+
+.package-subtitle {
+    font-size: 0.9rem;
+    color: var(--interactive-primary-default);
+    text-transform: uppercase;
+    letter-spacing: 1.5px;
+    font-weight: 700;
+    margin-bottom: 24px;
+    display: block;
+}
+
+.package-description {
+    font-size: 1.05rem;
+    color: var(--text-secondary);
+    line-height: 1.6;
+    margin-bottom: 32px;
+    min-height: 80px;
+}
+
+.package-features {
+    list-style: none;
+    padding: 0;
+    margin: 0 0 40px 0;
+    flex-grow: 1;
+}
+
+.package-features li {
+    margin-bottom: 16px;
+    display: flex;
+    align-items: flex-start;
+    color: var(--text-primary);
+    font-size: 1rem;
+    font-weight: 500;
+}
+
+.check-icon {
+    width: 22px;
+    height: 22px;
+    background-color: rgba(var(--color-primary-rgb, 79, 137, 185), 0.1);
+    color: var(--interactive-primary-default);
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-right: 14px;
+    font-size: 12px;
+    flex-shrink: 0;
+    margin-top: 2px;
+}
+
+.package-cta {
+    display: block;
+    width: 100%;
+    padding: 18px 24px;
+    border-radius: 16px;
+    text-align: center;
+    font-weight: 700;
+    font-size: 1.1rem;
+    text-decoration: none;
+    transition: all 0.3s ease;
+    border: 2px solid var(--border-light);
+    color: var(--text-primary);
+    background: transparent;
+}
+
+.package-cta:hover {
+    border-color: var(--interactive-primary-default);
+    background-color: var(--interactive-primary-default);
+    color: white;
+}
+
+/* Signature Card - Featured */
+.package-card.featured {
+    border: 2px solid var(--interactive-primary-default);
+    transform: scale(1.05);
+    box-shadow: 0 15px 35px rgba(79, 137, 185, 0.15);
+}
+
+.package-card.featured:hover {
+    transform: scale(1.05) translateY(-12px);
+}
+
+.package-card.featured .package-cta {
+    background-color: var(--interactive-primary-default);
+    color: white;
+    border: none;
+    box-shadow: 0 8px 20px rgba(79, 137, 185, 0.2);
+}
+
+.package-card.featured .package-cta:hover {
+    background-color: var(--interactive-primary-hover);
+    transform: scale(1.02);
+}
+
+.popular-badge {
+    position: absolute;
+    top: 20px;
+    right: 24px;
+    background: var(--interactive-primary-default);
+    color: white;
+    padding: 6px 14px;
+    border-radius: 20px;
+    font-size: 0.75rem;
+    font-weight: 800;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+@media (max-width: 1100px) {
+    .packages-grid {
+        grid-template-columns: 1fr;
+        max-width: 500px;
+        margin-left: auto;
+        margin-right: auto;
+        gap: 40px;
+    }
+
+    .package-card.featured {
+        transform: none;
+    }
+
+    .package-card.featured:hover {
+        transform: translateY(-12px);
+    }
+}

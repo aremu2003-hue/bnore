@@ -3,23 +3,23 @@ export const servicesData = {
     id: "personal-care",
     title: "Personal Care & Daily Living Support",
     subtitle: "Because dignity matters in every moment",
-    description: "Bathing, dressing, grooming, feeding—these aren't just tasks on a checklist. They're intimate moments that require patience, gentleness, and respect for your child's comfort and dignity. Our nurses understand that how we do these things matters just as much as getting them done.",
+    description: "Bathing, dressing, grooming, feeding—these aren't just tasks on a checklist. They're intimate moments that require patience, gentleness, and respect for your loved one's comfort and dignity. Our nurses understand that how we do these things matters just as much as getting them done.",
     whatWeProvide: [
       "Bathing and hygiene assistance with patience and respect",
-      "Dressing and grooming tailored to your child's preferences",
+      "Dressing and grooming tailored to personal preferences",
       "Feeding support with attention to comfort and dignity",
       "Gentle positioning and transfer assistance"
     ],
-    realTalk: "We know you've probably had aides who rush through bath time or don't notice that your daughter hates having her hair washed a certain way. Our nurses take the time to learn your child's preferences and honor them.",
+    realTalk: "We know you've probably had aides who rush through care routines or don't notice specific preferences. Our nurses take the time to learn your loved one's preferences and honor them.",
     keyBenefits: [
-      "Respects your child's individual preferences",
+      "Respects individual preferences",
       "Patient, unhurried approach to care",
       "Maintains dignity in every interaction",
       "Builds trust through consistency"
     ],
-    summary: "Our nurses take the time to learn your child's preferences and honor them—because dignity isn't negotiable.",
+    summary: "Our nurses take the time to learn preferences and honor them—because dignity isn't negotiable.",
     ctaTitle: "Ready for Compassionate Personal Care?",
-    ctaDescription: "Let our nurses provide the gentle, respectful daily care your child deserves.",
+    ctaDescription: "Let our nurses provide the gentle, respectful daily care your loved one deserves.",
     ctaButton: "Schedule a Care Assessment"
   },
 
@@ -27,21 +27,21 @@ export const servicesData = {
     id: "mobility-positioning",
     title: "Mobility & Positioning Assistance",
     subtitle: "Safe movement with comfort and care",
-    description: "Safe transfers, comfortable positioning, and movement support that respects your child's body and comfort level. We know that improper positioning can lead to pain, pressure sores, and contractures—and we're meticulous about getting it right.",
+    description: "Safe transfers, comfortable positioning, and movement support that respects the patient's body and comfort level. We know that improper positioning can lead to pain, pressure sores, and contractures—and we're meticulous about getting it right.",
     whatWeProvide: [
       "Safe transfers using proper techniques",
       "Comfortable positioning to prevent pressure sores",
-      "Movement support with attention to anxiety levels",
+      "Movement support with attention to comfort levels",
       "Equipment assistance (wheelchairs, lifts, etc.)"
     ],
-    realTalk: "If your child has specific positioning needs or gets anxious during transfers, we'll work with you to develop techniques that feel safe for everyone. No one should dread being moved.",
+    realTalk: "If your loved one has specific positioning needs or gets anxious during transfers, we'll work with you to develop techniques that feel safe for everyone. No one should dread being moved.",
     keyBenefits: [
       "Prevents pressure wounds and contractures",
       "Reduces anxiety during transfers",
       "Proper body mechanics for safety",
       "Personalized positioning protocols"
     ],
-    summary: "We work with you to develop transfer techniques that feel safe and comfortable for your child.",
+    summary: "We work with you to develop transfer techniques that feel safe and comfortable for the patient.",
     ctaTitle: "Need Expert Mobility Support?",
     ctaDescription: "Our nurses are trained in safe, anxiety-reducing transfer and positioning techniques.",
     ctaButton: "Learn More About Mobility Care"
@@ -51,21 +51,21 @@ export const servicesData = {
     id: "medication-administration",
     title: "Medication Administration",
     subtitle: "The right med, right dose, right time—every time",
-    description: "Timely, accurate medication management by nurses who understand your child's complete care plan. We don't just follow a chart—we know the 'why' behind every dose, watch for interactions, and communicate with your medical team.",
+    description: "Timely, accurate medication management by nurses who understand the complete care plan. We don't just follow a chart—we know the 'why' behind every dose, watch for interactions, and communicate with the medical team.",
     whatWeProvide: [
       "Accurate medication administration with multiple verification",
       "Monitoring for side effects and interactions",
-      "Communication with your child's medical team",
+      "Communication with the medical team",
       "Detailed documentation of all medications given"
     ],
-    realTalk: "We've all heard the horror stories about medication errors. We use multiple verification systems and never, ever rush. Your child's safety is non-negotiable.",
+    realTalk: "We've all heard the horror stories about medication errors. We use multiple verification systems and never, ever rush. Patient safety is non-negotiable.",
     keyBenefits: [
       "Zero-tolerance medication error policy",
       "Complete understanding of medication interactions",
       "Timely administration without rushing",
       "Transparent documentation"
     ],
-    summary: "We use multiple verification systems and never rush—your child's medication safety is non-negotiable.",
+    summary: "We use multiple verification systems and never rush—medication safety is non-negotiable.",
     ctaTitle: "Concerned About Medication Safety?",
     ctaDescription: "Trust our meticulous approach to medication management and administration.",
     ctaButton: "Discuss Medication Needs"
@@ -79,14 +79,14 @@ export const servicesData = {
     whatWeProvide: [
       "Expert tracheostomy care and suctioning",
       "Emergency trach tube changes",
-      "Parent training and support",
+      "Family training and support",
       "24/7 availability for backup support"
     ],
     realTalk: "That moment when the trach needs changing and you're home alone? We get it. We're available 24/7, and we'll talk you through it or come to you if needed. You're not alone in this.",
     keyBenefits: [
       "Hundreds of hours of trach care experience",
       "24/7 emergency support available",
-      "Patient parent training",
+      "Patient family training",
       "Calm, confident approach"
     ],
     summary: "We're available 24/7 to talk you through it or come to you—you're not alone in this.",
@@ -99,7 +99,7 @@ export const servicesData = {
     id: "ventilator-respiratory",
     title: "Ventilator & Respiratory Support",
     subtitle: "Breathing easier, together",
-    description: "Ventilator management, oxygen therapy, chest physiotherapy, and breathing treatments delivered with skill and calm. We monitor closely, respond quickly to changes, and keep your child comfortable.",
+    description: "Ventilator management, oxygen therapy, chest physiotherapy, and breathing treatments delivered with skill and calm. We monitor closely, respond quickly to changes, and keep the patient comfortable.",
     whatWeProvide: [
       "Ventilator management and monitoring",
       "Oxygen therapy administration",
@@ -109,13 +109,13 @@ export const servicesData = {
     realTalk: "Alarms going off in the middle of the night are exhausting. Our nurses handle vent checks and troubleshooting so you can actually sleep—something you probably haven't done well in months.",
     keyBenefits: [
       "Expert ventilator troubleshooting",
-      "Allows parents to rest peacefully",
+      "Allows family caregivers to rest peacefully",
       "Continuous respiratory monitoring",
       "Calm response to emergencies"
     ],
     summary: "Our nurses handle vent checks and troubleshooting so you can actually sleep.",
     ctaTitle: "Exhausted From Vent Alarms?",
-    ctaDescription: "Let our respiratory experts monitor your child so you can finally rest.",
+    ctaDescription: "Let our respiratory experts monitor your loved one so you can finally rest.",
     ctaButton: "Schedule Respiratory Care"
   },
 
@@ -123,7 +123,7 @@ export const servicesData = {
     id: "gtube-feeding",
     title: "G-Tube & Feeding Support",
     subtitle: "Nourishment with patience and care",
-    description: "G-tube care, feeding administration, and nutritional monitoring. We handle tube placements, feeding schedules, and work with your dietitian to ensure your child gets the nutrition they need.",
+    description: "G-tube care, feeding administration, and nutritional monitoring. We handle tube placements, feeding schedules, and work with dietitians to ensure your loved one gets the nutrition they need.",
     whatWeProvide: [
       "G-tube feeding and care",
       "Feeding schedule management",
@@ -154,7 +154,7 @@ export const servicesData = {
       "Ostomy care and management",
       "Pain-minimizing techniques"
     ],
-    realTalk: "Wound care can be painful, and we know your child might be scared or resistant. We go slow, we explain what we're doing, and we never force anything. Trust is earned, not demanded.",
+    realTalk: "Wound care can be painful, and we know patients might be anxious or resistant. We go slow, we explain what we're doing, and we never force anything. Trust is earned, not demanded.",
     keyBenefits: [
       "Evidence-based wound healing",
       "Gentle, trauma-informed approach",
@@ -171,14 +171,14 @@ export const servicesData = {
     id: "seizure-management",
     title: "Seizure Management & Monitoring",
     subtitle: "Vigilant care during vulnerable moments",
-    description: "Seizure monitoring, emergency medication administration, and recovery support. We're trained to recognize seizure activity, respond appropriately, and keep your child safe.",
+    description: "Seizure monitoring, emergency medication administration, and recovery support. We're trained to recognize seizure activity, respond appropriately, and keep the patient safe.",
     whatWeProvide: [
       "Continuous seizure monitoring",
       "Emergency medication administration",
       "Recovery positioning and support",
       "Detailed documentation for neurologists"
     ],
-    realTalk: "Watching your child have a seizure never gets easier. Our nurses stay calm, follow your seizure action plan, and document everything so you have accurate information for the neurologist.",
+    realTalk: "Watching a loved one have a seizure never gets easier. Our nurses stay calm, follow the seizure action plan, and document everything so you have accurate information for the neurologist.",
     keyBenefits: [
       "Calm, trained seizure response",
       "Follows your action plan precisely",
@@ -195,7 +195,7 @@ export const servicesData = {
     id: "skilled-nursing",
     title: "Skilled Nursing Assessments",
     subtitle: "Clinical expertise with a caring heart",
-    description: "Ongoing health monitoring, vital signs, symptom management, and communication with your child's medical team. We catch small changes before they become big problems.",
+    description: "Ongoing health monitoring, vital signs, symptom management, and communication with the medical team. We catch small changes before they become big problems.",
     whatWeProvide: [
       "Comprehensive health assessments",
       "Vital signs monitoring",
@@ -205,7 +205,7 @@ export const servicesData = {
     realTalk: "You know that gut feeling when something's 'off' but you can't quite explain it? We trust that instinct. If you're worried, we're worried—and we'll investigate.",
     keyBenefits: [
       "Early problem detection",
-      "Trusts parental instinct",
+      "Trusts caregiver instinct",
       "Expert clinical observation",
       "Proactive health management"
     ],
@@ -219,23 +219,23 @@ export const servicesData = {
     id: "family-training",
     title: "Family Training & Support",
     subtitle: "Empowering you with knowledge and confidence",
-    description: "We don't just care for your child—we teach you techniques, answer your questions (no matter how small), and build your confidence to handle care when we're not there.",
+    description: "We don't just care for your loved one—we teach you techniques, answer your questions (no matter how small), and build your confidence to handle care when we're not there.",
     whatWeProvide: [
       "Hands-on care technique training",
       "Equipment use instruction",
       "Emergency procedure preparation",
       "Unlimited question answering"
     ],
-    realTalk: "There's no such thing as a stupid question. Ask us a hundred times how to do something—we'll show you a hundred and one times. Your child's safety depends on you feeling confident, and we're here to make that happen.",
+    realTalk: "There's no such thing as a stupid question. Ask us a hundred times how to do something—we'll show you a hundred and one times. Safety depends on you feeling confident, and we're here to make that happen.",
     keyBenefits: [
       "Patient teaching approach",
       "No judgment or impatience",
-      "Builds parent confidence",
+      "Builds caregiver confidence",
       "Comprehensive skill transfer"
     ],
     summary: "Ask us a hundred times—we'll show you a hundred and one. Your confidence matters.",
     ctaTitle: "Want to Feel More Confident?",
-    ctaDescription: "Our patient training empowers you to care for your child with confidence.",
+    ctaDescription: "Our patient training empowers you to care for your loved one with confidence.",
     ctaButton: "Request Training"
   }
 };

@@ -2,12 +2,12 @@ import homeCopy from '../../copy/home.json'
 
 export const blogCategories = [
     'All',
-    'Pediatric Care',
+    'Specialized Care',
     'Family Support',
     'GAPP & Funding',
     'Medical Safety',
     'Therapies',
-    'School Support'
+    'Community Support'
 ];
 
 export const blogsData = [
@@ -53,9 +53,9 @@ We know that funding is one of the biggest stressors for special needs families.
         category: "Medical Safety",
         date: "February 2, 2024",
         readTime: "8 min read",
-        excerpt: "Essential safety tips and routine maintenance advice for parents caring for a child with a tracheostomy at home.",
+        excerpt: "Essential safety tips and routine maintenance advice for caregivers caring for a loved one with a tracheostomy at home.",
         image: homeCopy.images.blog.articleImages[1],
-        content: `Bringing a child home with a tracheostomy is a major milestone, but it also comes with significant responsibility. Ensuring a safe environment and sticking to a consistent care routine are critical for your child's health and your peace of mind.
+        content: `Bringing a loved one home with a tracheostomy is a major milestone, but it also comes with significant responsibility. Ensuring a safe environment and sticking to a consistent care routine are critical for their health and your peace of mind.
 
 **1. Establish a Clean Safe Zone**
 Designate a specific area in your home for tracheostomy care. This area should be well-lit, free of dust and pet dander, and stocked with all necessary supplies. Always wash your hands thoroughly before handling the trach or supplies.
@@ -86,13 +86,13 @@ At B'Nore Care, our nurses are experts in tracheostomy management. Use them as a
     },
     {
         id: 3,
-        title: "Combatting Burnout: The Importance of Respite for Special Needs Parents",
+        title: "Combatting Burnout: The Importance of Respite for Family Caregivers",
         category: "Family Support",
         date: "January 15, 2024",
         readTime: "5 min read",
-        excerpt: "Why taking a break isn't selfish—it's essential. Learn how professional home care provides the respite parents need to function at their best.",
+        excerpt: "Why taking a break isn't selfish—it's essential. Learn how professional home care provides the respite caregivers need to function at their best.",
         image: homeCopy.images.blog.articleImages[2],
-        content: `Parenting a child with complex medical needs is a 24/7 job that requires the vigilance of an ICU nurse and the heart of a parent. It is physically exhausting and emotionally draining. "Caregiver burnout" is real, and it affects the entire family dynamic.
+        content: `Caring for a loved one with complex medical needs is a 24/7 job that requires vigilance and heart. It is physically exhausting and emotionally draining. "Caregiver burnout" is real, and it affects the entire family dynamic.
 
 **Recognizing Burnout**
 Signs of burnout include chronic fatigue, irritability, withdrawal from friends, sleep disturbances, and feelings of resentment or hopelessness. If you are running on empty, you cannot provide the best care for your child.
@@ -116,13 +116,13 @@ At B'Nore Care, we honor the trust you place in us. We aren't just caring for a 
     },
     {
         id: 4,
-        title: "Transitioning from NICU/PICU to Home",
-        category: "Pediatric Care",
+        title: "Transitioning from Hospital to Home",
+        category: "Specialized Care",
         date: "February 10, 2024",
         readTime: "7 min read",
-        excerpt: "A roadmap for parents preparing to bring their medically complex child home from the hospital for the first time.",
+        excerpt: "A roadmap for families preparing to bring their medically complex loved one home from the hospital for the first time.",
         image: homeCopy.images.blog.articleImages[3],
-        content: `Leaving the safety net of the NICU or PICU can be terrifying. In the hospital, monitors beep, and nurses are seconds away. Going home means becoming the primary decision-maker for your child's care. Here is how to prepare for a successful transition.
+        content: `Leaving the safety net of the hospital can be terrifying. In the hospital, monitors beep, and nurses are seconds away. Going home means becoming the primary decision-maker for your loved one's care. Here is how to prepare for a successful transition.
 
 **1. Master the Equipment**
 Before discharge, spend as much time as possible performing "hands-on" care in the hospital. Learn to troubleshoot the ventilator, change the G-tube, and administer meds. Do not leave until you feel confident in the basics.
@@ -148,12 +148,12 @@ The first few weeks will be an adjustment period. It is okay to be nervous. Lean
     {
         id: 5,
         title: "G-Tube Feeding Tips for Beginners",
-        category: "Pediatric Care",
+        category: "Specialized Care",
         date: "December 5, 2023",
         readTime: "6 min read",
-        excerpt: "Practical advice for managing gastrostomy tubes (G-tubes) and ensuring your child gets proper nutrition without the stress.",
+        excerpt: "Practical advice for managing gastrostomy tubes (G-tubes) and ensuring your loved one gets proper nutrition without the stress.",
         image: homeCopy.images.blog.articleImages[4],
-        content: `For many children with special needs, oral feeding isn't safe or sufficient. A G-tube provides a direct route for nutrition, but it can be intimidating for new parents. Here are some pro-tips to make feeding time easier.
+        content: `For many individuals with special needs, oral feeding isn't safe or sufficient. A G-tube provides a direct route for nutrition, but it can be intimidating for new caregivers. Here are some pro-tips to make feeding time easier.
 
 **Keep the Site Clean and Dry**
 Skin irritation is the most common issue. Clean the stoma site daily with mild soap and water. Keep it dry—gauze or specific G-tube pads can help absorb leakage.
@@ -178,8 +178,8 @@ Our nurses at B'Nore Care monitor weight gain, hydration status, and tolerance t
     },
     {
         id: 6,
-        title: "Navigating School with Medical Needs",
-        category: "School Support",
+        title: "Navigating Community & School with Medical Needs",
+        category: "Community Support",
         date: "March 1, 2024",
         readTime: "7 min read",
         excerpt: "Understanding IEPs, 504 plans, and how private duty nurses can accompany your child to school to ensure their safety and inclusion.",
