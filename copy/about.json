@@ -13,7 +13,7 @@
     }
   },
   "hero": {
-    "badge": "Family Nurse Practitioner-Owned",
+    "badge": "Expert Compassionate Care",
     "title": "We're More Than a Nursing Agency—",
     "titleHighlight": "We're Family",
     "description": "We're family members, caregivers, and advocates who believe every individual deserves care that honors their unique spirit. B'Nore Care was built on a simple truth: families shouldn't have to choose between quality medical care and genuine human connection.",
@@ -32,7 +32,7 @@
       },
       {
         "number": "100%",
-        "label": "Licensed Nurses"
+        "label": "Licensed & Insured"
       }
     ]
   },
@@ -43,7 +43,7 @@
       "B'Nore Care exists to provide elevated, personalized home care solutions for individuals of all ages. We deliver care with compassion, clinical discernment, and genuine empathy—ensuring dignity, safety, and peace of mind for every family that we serve."
     ],
     "signature": "— The B'Nore Care Team",
-    "credentials": "MSN, APRN, FNP-C",
+    "credentials": "Our Dedicated Team",
     "cta": {
       "text": "Call (770) 674-6448",
       "secondary": "Schedule a Call"

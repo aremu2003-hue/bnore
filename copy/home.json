@@ -58,7 +58,7 @@
   },
   "header": {
     "logo": {
-      "alt": "B'Nore Care - Premium Home Care for ALL AGES, adolescents to seniors in Greater Atlanta"
+      "alt": "B'Nore Care - Premium Home Care for all ages, adolescents to seniors in Greater Atlanta"
     },
     "navigation": {
       "about": "About",
@@ -94,7 +94,7 @@
   },
   "hero": {
     "badge": "Free In-Home Assessment",
-    "mainHeading": "Premium Home Care for ALL AGES, adolescents to seniors.",
+    "mainHeading": "Premium Home Care for all ages, adolescents to seniors.",
     "mainDescription": "Our family-centered home care agency supports individuals of all ages with special needs, helping them thrive safely and joyfully at home.",
     "teamStats": "Serving Greater Atlanta and all surrounding counties with expert clinical care.",
     "ctaButton": "Call (770) 674-6448",
@@ -109,8 +109,8 @@
       {
         "heading": "Individuals With Complex Needs Deserve Care That Feels Like Family",
         "description": "We provide specialized medical care and daily support tailored to the unique complexities of each individual's health.",
-        "popularHeading": "NP Owned",
-        "popularDescription": "Expertise you can trust from our clinical leadership."
+        "popularHeading": "Expertise",
+        "popularDescription": "Compassionate care you can trust."
       },
       {
         "heading": "Serving Greater Atlanta With Compassion and Clinical Excellence.",
@@ -122,7 +122,7 @@
         "heading": "Specialized Nurses Are Here For Your Family.",
         "description": "From Tracheostomy Care to Ventilator Support, our team is equipped to handle complex medical needs for all ages.",
         "popularHeading": "Accepting",
-        "popularDescription": "GAPP, Medicare & Medicaid Accepted."
+        "popularDescription": "Private Pay, GAPP, and Insurance Accepted."
       },
       {
         "heading": "Expert Care For Your Loved One's Unique Journey.",
@@ -136,7 +136,7 @@
     "badge": "Specialized Support",
     "title": "Do You Need Specialized",
     "titleHighlight": "Home Health Care in Atlanta?",
-    "description": "B'Nore Care is a nurse practitioner-owned agency in Greater Atlanta helping individuals with special needs thrive safely at home. We provide medically expert, family-centered care to ensure your loved one's safety while offering families the specialized support and respite they need to prevent burnout.",
+    "description": "B'Nore Care is a leading home care agency in Greater Atlanta helping individuals with special needs thrive safely at home. We provide medically expert, family-centered care to ensure your loved one's safety while offering families the specialized support and respite they need to prevent burnout.",
     "mainImage": "https://res.cloudinary.com/df3anqibv/image/upload/v1769268608/pexels-pavel-danilyuk-5998507_d75s8r.jpg",
     "question": "Is Your Loved One Safe Alone at Home?",
     "questionDetail": "As our loved ones with special needs require more support, it can feel scary to manage their complex medical care at home. Plus, constant fear of what could happen if they have a medical emergency, equipment failure, or sudden change in condition can cause soul-crushing stress.",
@@ -186,7 +186,7 @@
     "description": "Our philosophy centers on individualized assessments, thoughtful matching, and continuous oversight. We serve the whole person—physical, emotional, and social—while supporting families as partners in care.",
     "imageOverlay": {
       "yearsExperience": "NP",
-      "yearsLabel": "Nurse Practitioner Led"
+      "yearsLabel": "Medically Expert Care"
     }
   },
   "services": {
@@ -261,8 +261,8 @@
     "title": "Why Families Trust <br> B'Nore Care",
     "trustPoints": [
       {
-        "title": "Owned by a Nurse Practitioner",
-        "description": "Direct clinical leadership guarantees the highest standards of medical care and specialized expertise.",
+        "title": "Licensed & Insured",
+        "description": "We maintain the highest standards of medical care and specialized expertise through our dedicated nursing staff.",
         "icon": "◯"
       },
       {
@@ -272,7 +272,7 @@
       },
       {
         "title": "GAPP, Medicaid & Waivers Accepted",
-        "description": "We work with GAPP, CCSP, SOURCE, Medicare, and Medicaid to ensure your family gets the support needed without financial barriers.",
+        "description": "We work with Private Pay, GAPP, and various insurance plans to ensure your family gets the support needed without financial barriers.",
         "icon": "◐"
       },
       {
@@ -289,7 +289,7 @@
     "clientFeedbackLabel": "Parent Feedback",
     "testimonials": [
       {
-        "feedback": "B'Nore Care has been a lifesaver. Having a Nurse Practitioner oversee our care gives us a level of confidence we never had before. They truly feel like family.",
+        "feedback": "B'Nore Care has been a lifesaver. The level of care and expertise they provide gives us a level of confidence we never had before. They truly feel like family.",
         "name": "Sarah M.",
         "location": "Atlanta, GA"
       },
@@ -321,8 +321,8 @@
     "reasonsTitle": "Why Refer to B'Nore Care?",
     "reasons": [
       {
-        "title": "Expert Clinical Leadership",
-        "description": "Owned and operated by a Nurse Practitioner with deep expertise in complex care."
+        "title": "Expert Care Coordination",
+        "description": "Deep expertise in complex care through a specialized clinical approach."
       },
       {
         "title": "Specialized Care Options",
@@ -434,11 +434,11 @@
     "questions": [
       {
         "question": "What is the focus of B'Nore Care?",
-        "answer": "We specialize in home care for individuals of all ages, from children to seniors, with special needs and complex medical conditions. Our agency is nurse practitioner-owned, ensuring a high level of clinical expertise."
+        "answer": "We specialize in home care for individuals of all ages, from children to seniors, with special needs and complex medical conditions. Our agency provides a high level of clinical expertise through our specialized nursing team."
       },
       {
-        "question": "Do you accept GAPP and other Medicaid waivers?",
-        "answer": "Yes, we accept GAPP (for children), as well as CCSP, SOURCE, Medicare, and Medicaid to help families access the critical skilled nursing care their loved ones need."
+        "question": "What payment and insurance options do you accept?",
+        "answer": "We accept Private Pay, GAPP (Georgia Pediatric Program), and various insurance plans at the moment to help families access the critical care their loved ones need."
       },
       {
         "question": "What areas of Atlanta do you serve?",
@@ -459,9 +459,9 @@
     "companyName": "B'Nore Care",
     "companyDescription": "PREMIUM HOME CARE FOR ALL AGES, ADOLESCENTS TO SENIORS. Helping families thrive safely and joyfully at home through expert clinical care and support in Greater Atlanta.",
     "badges": [
-      "NP Owned & Operated",
+      "Licensed & Insured",
       "Specialized Care for All Ages",
-      "GAPP, Medicaid & Medicare"
+      "Private Pay, GAPP & Insurance"
     ],
     "sections": {
       "ourServices": {

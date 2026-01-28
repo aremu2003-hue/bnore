@@ -14,9 +14,21 @@
         ]
     },
     "insurancePrograms": {
-        "title": "Insurance Programs We Accept",
-        "subtitle": "We work with GAPP, Medicare, Medicaid, and Waiver Programs like CCSP and SOURCE to provide skilled nursing care with no out-of-pocket costs for qualified families.",
+        "title": "Payment & Insurance Options",
+        "subtitle": "We work with Private Pay, GAPP, and various insurance plans to provide skilled nursing care for families in Greater Atlanta.",
         "programs": [
+            {
+                "id": "private-pay",
+                "name": "Private Pay",
+                "fullName": "Self-Pay Options",
+                "description": "We offer flexible private pay options for families seeking high-quality care without going through insurance or waiver programs.",
+                "features": [
+                    "Direct care solutions",
+                    "Flexible scheduling",
+                    "Experienced clinical staff",
+                    "Personalized care plans"
+                ]
+            },
             {
                 "id": "gapp",
                 "name": "GAPP",
@@ -30,71 +42,47 @@
                 ]
             },
             {
-                "id": "medicare",
-                "name": "Medicare",
-                "fullName": "Federal Health Insurance",
-                "description": "We accept Medicare for eligible children with qualifying disabilities who meet federal coverage requirements.",
+                "id": "insurance",
+                "name": "Insurance",
+                "fullName": "Private Insurance Plans",
+                "description": "We work with various private insurance plans to cover skilled nursing and home care services.",
                 "features": [
-                    "Qualifying disabilities",
-                    "Federal coverage",
-                    "Skilled nursing care",
-                    "We handle billing"
-                ]
-            },
-            {
-                "id": "medicaid",
-                "name": "Medicaid",
-                "fullName": "Georgia Medicaid",
-                "description": "We work with Georgia Medicaid to provide comprehensive home health services for all ages with no out-of-pocket costs.",
-                "features": [
-                    "No out-of-pocket costs",
-                    "Comprehensive services",
-                    "Waiver programs",
-                    "We handle paperwork"
-                ]
-            },
-            {
-                "id": "waivers",
-                "name": "CCSP / SOURCE",
-                "fullName": "Medicaid Waiver Programs",
-                "description": "We accept Community Care Services Program (CCSP) and Service Options Using Resources in a Community Environment (SOURCE) for eligible elderly and disabled individuals.",
-                "features": [
-                    "For Elderly/Disabled",
-                    "In-home support services",
-                    "Alternative to nursing homes",
-                    "Case management included"
+                    "Major insurance carriers",
+                    "Skilled nursing coverage",
+                    "We handle verification",
+                    "Direct billing"
                 ]
             }
         ]
     },
     "howWeHelp": {
-        "title": "We Handle the Paperwork",
-        "subtitle": "How We Help You Navigate Insurance",
+        "title": "We Handle the Logistics",
+        "subtitle": "How We Help You Navigate Payments",
         "steps": [
             {
                 "number": "1",
                 "title": "We Check Your Eligibility",
-                "description": "Not sure if your loved one qualifies? We'll review your situation and let you know which programs you're eligible for. No guessing, no wasted applications."
+                "description": "Not sure if your loved one qualifies for GAPP or if your insurance covers our services? We'll review your situation and let you know. No guessing, no wasted time."
             },
             {
                 "number": "2",
-                "title": "We Complete the Applications",
-                "description": "Those 47-page application forms? We'll help you fill them out correctly the first time. We know exactly what documentation is needed and how to present the needs in a way that gets approved."
+                "title": "We Complete the Paperwork",
+                "description": "Application forms and insurance verification can be daunting. We'll help you navigate the documentation needed to get care started smoothly."
             },
             {
                 "number": "3",
-                "title": "We Fight Denials",
-                "description": "Got denied? Don't panic. We know how to appeal, what documentation to submit, and how to get decisions overturned. We've done this hundreds of times."
+                "title": "We Coordinate with Payers",
+                "description": "Whether it's GAPP or your private insurance, we handle the coordination and communication to ensure services are authorized and active."
             },
             {
                 "number": "4",
                 "title": "We Handle All Billing",
-                "description": "You'll never see a bill from us. We bill insurance directly, handle all the paperwork, and deal with any billing issues. Your job is to focus on your loved one—not on medical bills."
+                "description": "For GAPP and insurance, we bill directly. For private pay, we provide clear, itemized invoices. Your job is to focus on your loved one—not on medical bills."
             },
             {
                 "number": "5",
-                "title": "We Keep Your Coverage Active",
-                "description": "Renewals, recertifications, updated care plans—we track all the deadlines and make sure your coverage doesn't lapse. You have enough to remember without adding insurance renewal dates to the list."
+                "title": "We Maintain Coverage",
+                "description": "Renewals and updated care plans—we track the requirements to make sure your care doesn't lapse. You have enough to remember without adding administrative deadlines to the list."
             }
         ]
     },
@@ -102,20 +90,20 @@
         "title": "Common Insurance Questions",
         "questions": [
             {
-                "question": "What if my loved one doesn't qualify for GAPP, Medicare, or Medicaid?",
-                "answer": "Let's talk. There are other programs and options we can explore, like CCSP or SOURCE. We'll help you find a way to get the care needed, even if it means connecting you with other resources."
+                "question": "What if my loved one doesn't qualify for GAPP or have private insurance?",
+                "answer": "We offer private pay options for families who need care but aren't eligible for GAPP or other covered programs. Let's talk about your specific situation to find a solution that works for you."
             },
             {
                 "question": "How long does the approval process take?",
-                "answer": "It varies, but typically 2-6 weeks for initial applications. If care is needed urgently, let us know—we can sometimes expedite the process or arrange temporary coverage while we wait for approval."
+                "answer": "It varies, but typically 2-6 weeks for GAPP applications. For insurance and private pay, we can often get started much sooner once the initial assessment and verification are complete."
             },
             {
-                "question": "What if I've been denied before?",
-                "answer": "Denials happen all the time—often because the application wasn't filled out correctly or didn't include the right documentation. Let us review your case. We might be able to appeal the denial or reapply with better supporting information."
+                "question": "What if my insurance denies coverage?",
+                "answer": "Denials happen—often because the documentation didn't emphasize the right details. We know how to provide the information insurance companies need to see the medical necessity for care."
             },
             {
-                "question": "Will I really have zero out-of-pocket costs?",
-                "answer": "For qualified families with GAPP, Medicare, or Medicaid coverage—yes, absolutely zero. We bill insurance directly, and you won't receive any bills from us. If there are any coverage issues, we'll work them out with the insurance company, not with you."
+                "question": "Will I have out-of-pocket costs?",
+                "answer": "For families qualified under GAPP, there are typically zero out-of-pocket costs. For private insurance, it depends on your specific plan's deductibles and co-pays. For private pay, we provide a clear rate schedule so there are no surprises."
             }
         ]
     },

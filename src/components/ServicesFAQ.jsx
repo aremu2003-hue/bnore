@@ -33,8 +33,8 @@ function ServicesFAQ() {
         },
         {
             id: 6,
-            question: "Do you accept insurance or Medicare for services?",
-            answer: "We work with various insurance providers and can help determine coverage options. While Medicare typically doesn't cover custodial care, many long-term care insurance policies do. We'll help you navigate payment options during your consultation."
+            question: "What payment and insurance options do you accept?",
+            answer: "We accept Private Pay, GAPP (for children), and various private insurance plans. We can help you navigate your coverage options and determine if our services are covered by your specific plan during your consultation."
         }
     ];
 
@@ -55,13 +55,13 @@ function ServicesFAQ() {
 
                 <div className="services-faq-list" data-aos="fade-up" data-aos-delay="200">
                     {servicesFaqs.map((faq, index) => (
-                        <div 
-                            key={faq.id} 
+                        <div
+                            key={faq.id}
                             className={`services-faq-item ${openItem === faq.id ? 'open' : ''}`}
-                            // data-aos="fade-up" 
-                            // data-aos-delay={`${300 + (index * 50)}`}
+                        // data-aos="fade-up" 
+                        // data-aos-delay={`${300 + (index * 50)}`}
                         >
-                            <button 
+                            <button
                                 className="services-faq-question"
                                 onClick={() => toggleItem(faq.id)}
                                 aria-expanded={openItem === faq.id}
